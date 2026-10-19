@@ -1,0 +1,295 @@
+{
+  "minNameLength": 3,
+  "maxNameLength": 20,
+  "maxDescriptionLength": 120,
+  "maxNoticeLength": 120,
+  "maxMembers": 30,
+  "maxOfficers": 3,
+  "maxTags": 3,
+  "maxPendingRequestsPerUser": 3,
+  "requestExpirationHours": 48,
+  "forbiddenCharacters": [
+    "@",
+    "#",
+    "$",
+    "%",
+    "&",
+    "*",
+    "!",
+    "/"
+  ],
+  "autoCapitalizeName": true,
+  "allowRichTextInDescription": false,
+  "icons": [
+    {
+      "id": "emblem_lion",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_dragon",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_phoenix",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_wolf",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_swords",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_tree",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_moon",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_star",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_skull",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_crown",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_kraken",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_rune",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_eagle",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_bear",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_flame",
+      "isDefault": true
+    },
+    {
+      "id": "emblem_lightning",
+      "isDefault": true
+    }
+  ],
+  "tags": [
+    {
+      "id": "casual"
+    },
+    {
+      "id": "competitive"
+    },
+    {
+      "id": "active"
+    },
+    {
+      "id": "beginners"
+    },
+    {
+      "id": "helpful"
+    },
+    {
+      "id": "arena"
+    },
+    {
+      "id": "pve"
+    },
+    {
+      "id": "social"
+    }
+  ],
+  "creationCost": {
+    "currencyId": "GO",
+    "amount": 10000
+  },
+  "minLevelToCreate": 3,
+  "quests": {
+    "enabled": true,
+    "resetHourUtc": 0,
+    "weekStartsOn": 1,
+    "daily": [
+      {
+        "id": "daily_stage_clear",
+        "kind": "stage_clear",
+        "target": 5,
+        "guildPoints": 20,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "GO",
+              "amount": 5000
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [],
+          "constructions": []
+        }
+      },
+      {
+        "id": "daily_arena",
+        "kind": "arena_battle",
+        "target": 3,
+        "guildPoints": 20,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "GO",
+              "amount": 3000
+            },
+            {
+              "currencyId": "AW",
+              "amount": 1
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [],
+          "constructions": []
+        }
+      },
+      {
+        "id": "daily_summon",
+        "kind": "summon",
+        "target": 1,
+        "guildPoints": 10,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [],
+          "constructions": []
+        }
+      },
+      {
+        "id": "daily_rune_upgrade",
+        "kind": "rune_upgrade",
+        "target": 3,
+        "guildPoints": 10,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "GO",
+              "amount": 4000
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [],
+          "constructions": []
+        }
+      },
+      {
+        "id": "daily_powerup",
+        "kind": "monster_powerup",
+        "target": 1,
+        "guildPoints": 10,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "EN",
+              "amount": 10
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [],
+          "constructions": []
+        }
+      }
+    ],
+    "chests": [
+      {
+        "id": "chest_bronze",
+        "points": 300,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [],
+          "constructions": []
+        }
+      },
+      {
+        "id": "chest_silver",
+        "points": 800,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [],
+          "constructions": []
+        }
+      },
+      {
+        "id": "chest_gold",
+        "points": 1500,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "mystic_scroll_cur",
+              "amount": 1
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [],
+          "constructions": []
+        }
+      },
+      {
+        "id": "chest_legend",
+        "points": 3000,
+        "rewards": {
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 100
+            }
+          ],
+          "scrolls": [],
+          "characters": [],
+          "runes": [
+            {
+              "setId": null,
+              "slot": null,
+              "tier": 5,
+              "quality": null,
+              "quantity": 1
+            }
+          ],
+          "constructions": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+[{
+    "id": "icon_1",
+    "name": "icon_1",
+    "sprite": "magic_book",
+    "unlocked": true
+},{
+    "id": "icon_2",
+    "name": "icon_2",
+    "sprite": "bag",
+    "unlocked": true
+},{
+    "id": "icon_3",
+    "name": "icon_3",
+    "sprite": "book",
+    "unlocked": true
+},{
+    "id": "icon_4",
+    "name": "icon_4",
+    "sprite": "game_icons_parchment_set_4",
+    "unlocked": true
+}]

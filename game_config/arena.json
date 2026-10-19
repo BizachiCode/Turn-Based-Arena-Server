@@ -1,0 +1,298 @@
+{
+  "turnLimit": 60,
+  "kFactor": 32,
+  "startRating": 1000,
+  "rewards": {
+    "win": [
+      {
+        "currencyId": "GP",
+        "amount": 10
+      },
+      {
+        "currencyId": "GO",
+        "amount": 2000
+      }
+    ],
+    "loss": [
+      {
+        "currencyId": "GP",
+        "amount": 2
+      }
+    ]
+  },
+  "refreshCost": {
+    "currencyId": "DM",
+    "amount": 5
+  },
+  "npcRivals": [
+    {
+      "id": "npc_default_1",
+      "name": "Rookie Scout",
+      "rating": 800,
+      "leaderSlotIndex": 0,
+      "units": [
+        {
+          "characterId": "kitty_fire",
+          "star": 1,
+          "level": 8,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "fish_fire",
+          "star": 1,
+          "level": 8,
+          "awakeningIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "npc_default_2",
+      "name": "Apprentice Knight",
+      "rating": 900,
+      "leaderSlotIndex": 0,
+      "units": [
+        {
+          "characterId": "battle_bunny_fire",
+          "star": 2,
+          "level": 12,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "deckhand_fire",
+          "star": 2,
+          "level": 12,
+          "awakeningIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "npc_default_3",
+      "name": "Cliff Hunter",
+      "rating": 1000,
+      "leaderSlotIndex": 0,
+      "units": [
+        {
+          "characterId": "barbarian_fire",
+          "star": 2,
+          "level": 15,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "raider_fire",
+          "star": 2,
+          "level": 15,
+          "awakeningIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "npc_default_4",
+      "name": "Stone Guard",
+      "rating": 1100,
+      "leaderSlotIndex": 0,
+      "units": [
+        {
+          "characterId": "ninja_fire",
+          "star": 3,
+          "level": 20,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "duelist_fire",
+          "star": 3,
+          "level": 20,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "tribal_fire",
+          "star": 3,
+          "level": 20,
+          "awakeningIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "npc_default_5",
+      "name": "Ember Ranger",
+      "rating": 1250,
+      "leaderSlotIndex": 0,
+      "units": [
+        {
+          "characterId": "raptor_dark",
+          "star": 4,
+          "level": 25,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "assassin_dark",
+          "star": 4,
+          "level": 25,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "druid_fire",
+          "star": 4,
+          "level": 25,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "raptor_fire",
+          "star": 4,
+          "level": 25,
+          "awakeningIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "npc_default_6",
+      "name": "Arena Champion",
+      "rating": 1400,
+      "leaderSlotIndex": 0,
+      "units": [
+        {
+          "characterId": "mushroom_king_light",
+          "star": 5,
+          "level": 35,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "demon_dark",
+          "star": 5,
+          "level": 35,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "lich_dark",
+          "star": 5,
+          "level": 35,
+          "awakeningIndex": 0
+        },
+        {
+          "characterId": "orc_warlord_dark",
+          "star": 5,
+          "level": 35,
+          "awakeningIndex": 0
+        }
+      ]
+    }
+  ],
+  "seasons": {
+    "enabled": true,
+    "lengthDays": 7,
+    "anchor": "2026-01-05T00:00:00Z",
+    "minBattles": 1,
+    "reset": {
+      "base": 1000,
+      "keepPercent": 50,
+      "floor": 0
+    },
+    "tiers": [
+      {
+        "id": "beginner",
+        "name": "Beginner",
+        "minRating": 0,
+        "rewards": [
+          {
+            "currencyId": "GP",
+            "amount": 50
+          },
+          {
+            "currencyId": "GO",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "id": "challenger",
+        "name": "Challenger",
+        "minRating": 1100,
+        "rewards": [
+          {
+            "currencyId": "GP",
+            "amount": 100
+          },
+          {
+            "currencyId": "GO",
+            "amount": 10000
+          }
+        ]
+      },
+      {
+        "id": "fighter",
+        "name": "Fighter",
+        "minRating": 1250,
+        "rewards": [
+          {
+            "currencyId": "GP",
+            "amount": 200
+          },
+          {
+            "currencyId": "GO",
+            "amount": 20000
+          },
+          {
+            "currencyId": "DM",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "id": "conqueror",
+        "name": "Conqueror",
+        "minRating": 1400,
+        "rewards": [
+          {
+            "currencyId": "GP",
+            "amount": 350
+          },
+          {
+            "currencyId": "GO",
+            "amount": 35000
+          },
+          {
+            "currencyId": "DM",
+            "amount": 25
+          }
+        ]
+      },
+      {
+        "id": "guardian",
+        "name": "Guardian",
+        "minRating": 1600,
+        "rewards": [
+          {
+            "currencyId": "GP",
+            "amount": 500
+          },
+          {
+            "currencyId": "GO",
+            "amount": 50000
+          },
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ]
+      },
+      {
+        "id": "legend",
+        "name": "Legend",
+        "minRating": 1800,
+        "rewards": [
+          {
+            "currencyId": "GP",
+            "amount": 800
+          },
+          {
+            "currencyId": "GO",
+            "amount": 80000
+          },
+          {
+            "currencyId": "DM",
+            "amount": 100
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+# LDNOOBW pt entries that are NOT filtered in the game chat (review freely).
+# Ordinary words / everyday use
+aborto
+amador
+aranha
+burro
+bumbum
+camisinha
+cerveja
+chupar
+cocaína
+comer
+consolo
+fecal
+gozar
+heroína
+inferno
+lolita
+mama
+pau
+pinto
+sacanagem
+saco
+torneira
+# Neutral identity terms
+ariano
+bissexual
+heterosexual
+homosexual
+homoerótico
+lésbica
+# English word in the pt list (covered by the en list when enabled)
+boob

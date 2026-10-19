@@ -1,0 +1,23 @@
+node_modules
+build
+export
+.colyseus-cloud.json
+.devmode.json
+
+# Local secrets / overrides
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs
+
+# Config import snapshots (created by /admin/config/import)
+game_config/bundle_*/
+
+# Local Redis snapshots
+dump.rdb
+
+# Parity fixtures written by test/parity/generate-fixtures.ts
+test/parity/fixtures/

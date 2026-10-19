@@ -1,0 +1,90 @@
+{
+  "resetHourUtc": 0,
+  "halls": [
+    {
+      "regionId": "dungeon_magic",
+      "kind": "essence",
+      "elementId": "",
+      "openDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "minAccountLevel": 1
+    },
+    {
+      "regionId": "dungeon_dark",
+      "kind": "essence",
+      "elementId": "dark_element",
+      "openDays": [
+        0,
+        1,
+        6
+      ],
+      "minAccountLevel": 1
+    },
+    {
+      "regionId": "dungeon_fire",
+      "kind": "essence",
+      "elementId": "fire_element",
+      "openDays": [
+        0,
+        2,
+        6
+      ],
+      "minAccountLevel": 1
+    },
+    {
+      "regionId": "dungeon_water",
+      "kind": "essence",
+      "elementId": "water_element",
+      "openDays": [
+        0,
+        3,
+        6
+      ],
+      "minAccountLevel": 1
+    },
+    {
+      "regionId": "dungeon_ground",
+      "kind": "essence",
+      "elementId": "ground_element",
+      "openDays": [
+        0,
+        4,
+        6
+      ],
+      "minAccountLevel": 1
+    },
+    {
+      "regionId": "dungeon_light",
+      "kind": "essence",
+      "elementId": "light_element",
+      "openDays": [
+        0,
+        5,
+        6
+      ],
+      "minAccountLevel": 1
+    },
+    {
+      "regionId": "dungeon_rune",
+      "kind": "rune",
+      "elementId": "",
+      "openDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "minAccountLevel": 1
+    }
+  ]
+}

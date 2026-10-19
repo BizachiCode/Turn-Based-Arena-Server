@@ -1,0 +1,33 @@
+{
+  "friends": {
+    "enabled": true,
+    "maxFriends": 100,
+    "maxPendingOutgoing": 50,
+    "maxPendingIncoming": 100,
+    "maxBlocked": 200,
+    "searchMinChars": 3,
+    "searchMaxResults": 20,
+    "onlineWindowSeconds": 60
+  },
+  "directMessages": {
+    "enabled": true,
+    "allowGuildMembers": false,
+    "historyPerConversation": 200,
+    "historyPageSize": 50,
+    "maxConversations": 50
+  },
+  "friendlyBattle": {
+    "enabled": true,
+    "allowGuildMembers": true,
+    "challengeTtlSeconds": 60,
+    "joinTimeoutSeconds": 30,
+    "prepareSeconds": 60,
+    "turnSeconds": 30,
+    "absentTurnDelaySeconds": 3,
+    "reconnectSeconds": 90,
+    "turnLimit": 60
+  },
+  "battleRooms": {
+    "reconnectSeconds": 45
+  }
+}

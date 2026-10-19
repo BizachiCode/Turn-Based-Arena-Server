@@ -1,0 +1,473 @@
+{
+  "version": 1,
+  "doc": "Cases of src/modules/chat/chat-filter.ts (server only): compile `configs[case.config]`, apply it to `input`, expect `matched` and the masked `output` (applyChatFilter returns the masked text whatever the mode; block mode only changes what the chat does with a match). Offsets are by code point.",
+  "configs": {
+    "whole": {
+      "enabled": true,
+      "mode": "mask",
+      "maskChar": "*",
+      "wholeWordOnly": true,
+      "words": [
+        "shit",
+        "fuck",
+        "ass",
+        "cunt",
+        "bitch",
+        "puta"
+      ],
+      "allowList": [
+        "scunthorpe"
+      ]
+    },
+    "substring": {
+      "enabled": true,
+      "mode": "mask",
+      "maskChar": "#",
+      "wholeWordOnly": false,
+      "words": [
+        "shit",
+        "fuck",
+        "ass",
+        "cunt",
+        "bitch"
+      ],
+      "allowList": [
+        "scunthorpe",
+        "class",
+        "assassin",
+        "pass",
+        "grass",
+        "bass",
+        "assume"
+      ]
+    },
+    "block": {
+      "enabled": true,
+      "mode": "block",
+      "maskChar": "*",
+      "wholeWordOnly": true,
+      "words": [
+        "shit",
+        "fuck"
+      ],
+      "allowList": []
+    },
+    "disabled": {
+      "enabled": false,
+      "mode": "mask",
+      "maskChar": "*",
+      "wholeWordOnly": true,
+      "words": [
+        "shit"
+      ],
+      "allowList": []
+    },
+    "empty": {
+      "enabled": true,
+      "mode": "mask",
+      "maskChar": "*",
+      "wholeWordOnly": true,
+      "words": [],
+      "allowList": []
+    },
+    "cjk": {
+      "enabled": true,
+      "mode": "mask",
+      "maskChar": "*",
+      "wholeWordOnly": true,
+      "words": [
+        "他妈的",
+        "くそ野郎",
+        "씨발",
+        "fuck"
+      ],
+      "allowList": []
+    }
+  },
+  "cases": [
+    {
+      "config": "whole",
+      "input": "hello world",
+      "matched": false,
+      "output": "hello world"
+    },
+    {
+      "config": "whole",
+      "input": "you are a shit",
+      "matched": true,
+      "output": "you are a ****"
+    },
+    {
+      "config": "whole",
+      "input": "SHIT",
+      "matched": true,
+      "output": "****"
+    },
+    {
+      "config": "whole",
+      "input": "shiiiit",
+      "matched": true,
+      "output": "*******"
+    },
+    {
+      "config": "whole",
+      "input": "sh1t",
+      "matched": true,
+      "output": "****"
+    },
+    {
+      "config": "whole",
+      "input": "5h1t",
+      "matched": true,
+      "output": "****"
+    },
+    {
+      "config": "whole",
+      "input": "bi7ch",
+      "matched": true,
+      "output": "*****"
+    },
+    {
+      "config": "whole",
+      "input": "f.u.c.k",
+      "matched": true,
+      "output": "*******"
+    },
+    {
+      "config": "whole",
+      "input": "f-u-c-k",
+      "matched": true,
+      "output": "*******"
+    },
+    {
+      "config": "whole",
+      "input": "f_u_c_k now",
+      "matched": true,
+      "output": "******* now"
+    },
+    {
+      "config": "whole",
+      "input": "ok.fuck",
+      "matched": true,
+      "output": "ok.****"
+    },
+    {
+      "config": "whole",
+      "input": "f u c k you",
+      "matched": true,
+      "output": "******* you"
+    },
+    {
+      "config": "whole",
+      "input": "f   u   c   k",
+      "matched": true,
+      "output": "*************"
+    },
+    {
+      "config": "whole",
+      "input": "a s s hole",
+      "matched": true,
+      "output": "***** hole"
+    },
+    {
+      "config": "whole",
+      "input": "u r a b i t c h",
+      "matched": true,
+      "output": "u r a *********"
+    },
+    {
+      "config": "whole",
+      "input": "p u t a",
+      "matched": true,
+      "output": "*******"
+    },
+    {
+      "config": "whole",
+      "input": "fück",
+      "matched": true,
+      "output": "****"
+    },
+    {
+      "config": "whole",
+      "input": "fúck",
+      "matched": true,
+      "output": "*****"
+    },
+    {
+      "config": "whole",
+      "input": "PÚTA",
+      "matched": true,
+      "output": "****"
+    },
+    {
+      "config": "whole",
+      "input": "Shït happens",
+      "matched": true,
+      "output": "**** happens"
+    },
+    {
+      "config": "whole",
+      "input": "fuuuuck",
+      "matched": true,
+      "output": "*******"
+    },
+    {
+      "config": "whole",
+      "input": "You, ASS!",
+      "matched": true,
+      "output": "You, ***!"
+    },
+    {
+      "config": "whole",
+      "input": "ass.",
+      "matched": true,
+      "output": "***."
+    },
+    {
+      "config": "whole",
+      "input": "shit,fuck",
+      "matched": true,
+      "output": "****,****"
+    },
+    {
+      "config": "whole",
+      "input": "classic ass",
+      "matched": true,
+      "output": "classic ***"
+    },
+    {
+      "config": "whole",
+      "input": "assassin",
+      "matched": false,
+      "output": "assassin"
+    },
+    {
+      "config": "whole",
+      "input": "class",
+      "matched": false,
+      "output": "class"
+    },
+    {
+      "config": "whole",
+      "input": "pass",
+      "matched": false,
+      "output": "pass"
+    },
+    {
+      "config": "whole",
+      "input": "as",
+      "matched": false,
+      "output": "as"
+    },
+    {
+      "config": "whole",
+      "input": "masses",
+      "matched": false,
+      "output": "masses"
+    },
+    {
+      "config": "whole",
+      "input": "putas",
+      "matched": false,
+      "output": "putas"
+    },
+    {
+      "config": "whole",
+      "input": "scunthorpe is a town",
+      "matched": false,
+      "output": "scunthorpe is a town"
+    },
+    {
+      "config": "whole",
+      "input": "hello, assassin",
+      "matched": false,
+      "output": "hello, assassin"
+    },
+    {
+      "config": "whole",
+      "input": "I a m here",
+      "matched": false,
+      "output": "I a m here"
+    },
+    {
+      "config": "whole",
+      "input": "have a nice day",
+      "matched": false,
+      "output": "have a nice day"
+    },
+    {
+      "config": "whole",
+      "input": "what the f*ck",
+      "matched": false,
+      "output": "what the f*ck"
+    },
+    {
+      "config": "whole",
+      "input": "$h!t",
+      "matched": false,
+      "output": "$h!t"
+    },
+    {
+      "config": "whole",
+      "input": "fu ck",
+      "matched": false,
+      "output": "fu ck"
+    },
+    {
+      "config": "whole",
+      "input": "fuckfuck",
+      "matched": false,
+      "output": "fuckfuck"
+    },
+    {
+      "config": "whole",
+      "input": "",
+      "matched": false,
+      "output": ""
+    },
+    {
+      "config": "substring",
+      "input": "you are a shit",
+      "matched": true,
+      "output": "you are a ####"
+    },
+    {
+      "config": "substring",
+      "input": "fuckfuck",
+      "matched": true,
+      "output": "########"
+    },
+    {
+      "config": "substring",
+      "input": "ccunt",
+      "matched": true,
+      "output": "#####"
+    },
+    {
+      "config": "substring",
+      "input": "masses",
+      "matched": true,
+      "output": "m###es"
+    },
+    {
+      "config": "substring",
+      "input": "f u c k you",
+      "matched": true,
+      "output": "####### you"
+    },
+    {
+      "config": "substring",
+      "input": "assassin",
+      "matched": false,
+      "output": "assassin"
+    },
+    {
+      "config": "substring",
+      "input": "class",
+      "matched": false,
+      "output": "class"
+    },
+    {
+      "config": "substring",
+      "input": "cl4ss",
+      "matched": false,
+      "output": "cl4ss"
+    },
+    {
+      "config": "substring",
+      "input": "passage",
+      "matched": false,
+      "output": "passage"
+    },
+    {
+      "config": "substring",
+      "input": "grass",
+      "matched": false,
+      "output": "grass"
+    },
+    {
+      "config": "substring",
+      "input": "assume nothing",
+      "matched": false,
+      "output": "assume nothing"
+    },
+    {
+      "config": "substring",
+      "input": "scunthorpe",
+      "matched": false,
+      "output": "scunthorpe"
+    },
+    {
+      "config": "substring",
+      "input": "classic ass",
+      "matched": true,
+      "output": "classic ###"
+    },
+    {
+      "config": "block",
+      "input": "what the fuck",
+      "matched": true,
+      "output": "what the ****"
+    },
+    {
+      "config": "block",
+      "input": "what the duck",
+      "matched": false,
+      "output": "what the duck"
+    },
+    {
+      "config": "disabled",
+      "input": "shit",
+      "matched": false,
+      "output": "shit"
+    },
+    {
+      "config": "empty",
+      "input": "shit",
+      "matched": false,
+      "output": "shit"
+    },
+    {
+      "config": "cjk",
+      "input": "你他妈的是谁",
+      "matched": true,
+      "output": "你***是谁"
+    },
+    {
+      "config": "cjk",
+      "input": "このくそ野郎め",
+      "matched": true,
+      "output": "この****め"
+    },
+    {
+      "config": "cjk",
+      "input": "아 씨발 진짜",
+      "matched": true,
+      "output": "아 ** 진짜"
+    },
+    {
+      "config": "cjk",
+      "input": "정말씨발이야",
+      "matched": true,
+      "output": "정말**이야"
+    },
+    {
+      "config": "cjk",
+      "input": "你好世界",
+      "matched": false,
+      "output": "你好世界"
+    },
+    {
+      "config": "cjk",
+      "input": "motherfucker",
+      "matched": false,
+      "output": "motherfucker"
+    },
+    {
+      "config": "cjk",
+      "input": "fuck 他妈的",
+      "matched": true,
+      "output": "**** ***"
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "enabled": true,
+  "chapters": [
+    {
+      "id": "ch1_first_steps",
+      "quests": [
+        {
+          "id": "np_clear_r1_s1",
+          "kind": "clear_stage",
+          "target": 1,
+          "regionId": "region_1",
+          "stageId": "region_1_stage_1",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GO",
+                "amount": 5000
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_summon_1",
+          "kind": "summon",
+          "target": 1,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [],
+            "scrolls": [
+              {
+                "scrollId": "common_scroll",
+                "quantity": 2
+              }
+            ],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_powerup_1",
+          "kind": "monster_powerup",
+          "target": 1,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GO",
+                "amount": 5000
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_clear_r1_s5",
+          "kind": "clear_stage",
+          "target": 1,
+          "regionId": "region_1",
+          "stageId": "region_1_stage_5",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "EN",
+                "amount": 30
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_level_3",
+          "kind": "account_level",
+          "target": 3,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "DM",
+                "amount": 50
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        }
+      ],
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [
+          {
+            "characterId": "birb_ground",
+            "star": 3,
+            "level": 1,
+            "awakeningIndex": 0,
+            "duplicateGivesShards": false,
+            "duplicateCompCurrencyId": null,
+            "duplicateCompAmount": 0
+          }
+        ],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ch2_rune_basics",
+      "quests": [
+        {
+          "id": "np_equip_6",
+          "kind": "equip_runes",
+          "target": 6,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GO",
+                "amount": 10000
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_rune_upgrade_5",
+          "kind": "rune_upgrade",
+          "target": 5,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GO",
+                "amount": 10000
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_rune_plus6",
+          "kind": "rune_level",
+          "target": 1,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 6,
+          "rewards": {
+            "currencies": [],
+            "scrolls": [],
+            "characters": [],
+            "runes": [
+              {
+                "setId": "Swift",
+                "slot": 2,
+                "tier": 3,
+                "quality": 3,
+                "quantity": 1
+              },
+              {
+                "setId": "Swift",
+                "slot": 4,
+                "tier": 3,
+                "quality": 3,
+                "quantity": 1
+              },
+              {
+                "setId": "Swift",
+                "slot": 6,
+                "tier": 3,
+                "quality": 3,
+                "quantity": 1
+              }
+            ],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_clear_r1_s10",
+          "kind": "clear_stage",
+          "target": 1,
+          "regionId": "region_1",
+          "stageId": "region_1_stage_10",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [],
+            "scrolls": [
+              {
+                "scrollId": "mystic_scroll",
+                "quantity": 1
+              }
+            ],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_stages_15",
+          "kind": "stage_clear",
+          "target": 15,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "EN",
+                "amount": 30
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        }
+      ],
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [
+          {
+            "setId": "Energy",
+            "slot": 1,
+            "tier": 4,
+            "quality": 2,
+            "quantity": 1
+          },
+          {
+            "setId": "Energy",
+            "slot": 2,
+            "tier": 4,
+            "quality": 2,
+            "quantity": 1
+          },
+          {
+            "setId": "Energy",
+            "slot": 3,
+            "tier": 4,
+            "quality": 2,
+            "quantity": 1
+          },
+          {
+            "setId": "Energy",
+            "slot": 4,
+            "tier": 4,
+            "quality": 2,
+            "quantity": 1
+          },
+          {
+            "setId": "Energy",
+            "slot": 5,
+            "tier": 4,
+            "quality": 2,
+            "quantity": 1
+          },
+          {
+            "setId": "Energy",
+            "slot": 6,
+            "tier": 4,
+            "quality": 2,
+            "quantity": 1
+          }
+        ],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ch3_growing_stronger",
+      "quests": [
+        {
+          "id": "np_level_10",
+          "kind": "account_level",
+          "target": 10,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "DM",
+                "amount": 100
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_evolve_1",
+          "kind": "monster_evolve",
+          "target": 1,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GO",
+                "amount": 20000
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_dungeon_3",
+          "kind": "dungeon_clear",
+          "target": 3,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "magic_low",
+                "amount": 15
+              },
+              {
+                "currencyId": "magic_mid",
+                "amount": 3
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_own_3star_5",
+          "kind": "own_monsters",
+          "target": 5,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 3,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [],
+            "scrolls": [
+              {
+                "scrollId": "mystic_scroll",
+                "quantity": 1
+              }
+            ],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_clear_r2_s10",
+          "kind": "clear_stage",
+          "target": 1,
+          "regionId": "region_2",
+          "stageId": "region_2_stage_10",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "DM",
+                "amount": 50
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        }
+      ],
+      "rewards": {
+        "currencies": [],
+        "scrolls": [
+          {
+            "scrollId": "mystic_scroll",
+            "quantity": 2
+          }
+        ],
+        "characters": [],
+        "runes": [
+          {
+            "setId": "Swift",
+            "slot": 1,
+            "tier": 4,
+            "quality": 3,
+            "quantity": 1
+          },
+          {
+            "setId": "Swift",
+            "slot": 2,
+            "tier": 4,
+            "quality": 3,
+            "quantity": 1
+          },
+          {
+            "setId": "Swift",
+            "slot": 3,
+            "tier": 4,
+            "quality": 3,
+            "quantity": 1
+          },
+          {
+            "setId": "Swift",
+            "slot": 4,
+            "tier": 4,
+            "quality": 3,
+            "quantity": 1
+          },
+          {
+            "setId": "Swift",
+            "slot": 5,
+            "tier": 4,
+            "quality": 3,
+            "quantity": 1
+          },
+          {
+            "setId": "Swift",
+            "slot": 6,
+            "tier": 4,
+            "quality": 3,
+            "quantity": 1
+          }
+        ],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ch4_awakening",
+      "quests": [
+        {
+          "id": "np_awaken_1",
+          "kind": "monster_awaken",
+          "target": 1,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "magic_mid",
+                "amount": 10
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_arena_3",
+          "kind": "arena_battle",
+          "target": 3,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GP",
+                "amount": 100
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_rune_plus9",
+          "kind": "rune_level",
+          "target": 3,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 9,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GO",
+                "amount": 30000
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_clear_r3_s10",
+          "kind": "clear_stage",
+          "target": 1,
+          "regionId": "region_3",
+          "stageId": "region_3_stage_10",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [],
+            "scrolls": [
+              {
+                "scrollId": "mystic_scroll",
+                "quantity": 1
+              }
+            ],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_clear_crypt_b3",
+          "kind": "clear_stage",
+          "target": 1,
+          "regionId": "dungeon_rune",
+          "stageId": "dungeon_rune_b3",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [],
+            "scrolls": [],
+            "characters": [],
+            "runes": [
+              {
+                "setId": null,
+                "slot": null,
+                "tier": 5,
+                "quality": 3,
+                "quantity": 1
+              }
+            ],
+            "constructions": []
+          }
+        }
+      ],
+      "rewards": {
+        "currencies": [],
+        "scrolls": [
+          {
+            "scrollId": "mystic_scroll",
+            "quantity": 3
+          }
+        ],
+        "characters": [
+          {
+            "characterId": "squidle_water",
+            "star": 4,
+            "level": 1,
+            "awakeningIndex": 0,
+            "duplicateGivesShards": false,
+            "duplicateCompCurrencyId": null,
+            "duplicateCompAmount": 0
+          }
+        ],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ch5_summoner_ascending",
+      "quests": [
+        {
+          "id": "np_level_20",
+          "kind": "account_level",
+          "target": 20,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "DM",
+                "amount": 200
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_own_4star_3",
+          "kind": "own_monsters",
+          "target": 3,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 4,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [],
+            "scrolls": [
+              {
+                "scrollId": "mystic_scroll",
+                "quantity": 3
+              }
+            ],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_summon_30",
+          "kind": "summon",
+          "target": 30,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "DM",
+                "amount": 100
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_tower_5",
+          "kind": "tower_clear",
+          "target": 5,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GO",
+                "amount": 50000
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_clear_r1_s10_hard",
+          "kind": "clear_stage",
+          "target": 1,
+          "regionId": "region_1",
+          "stageId": "region_1_stage_10",
+          "difficulty": "Hard",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [],
+            "scrolls": [],
+            "characters": [],
+            "runes": [
+              {
+                "setId": null,
+                "slot": null,
+                "tier": 5,
+                "quality": 4,
+                "quantity": 1
+              }
+            ],
+            "constructions": []
+          }
+        },
+        {
+          "id": "np_powerup_20",
+          "kind": "monster_powerup",
+          "target": 20,
+          "regionId": "",
+          "stageId": "",
+          "difficulty": "Easy",
+          "stars": 1,
+          "runeLevel": 0,
+          "rewards": {
+            "currencies": [
+              {
+                "currencyId": "GO",
+                "amount": 50000
+              }
+            ],
+            "scrolls": [],
+            "characters": [],
+            "runes": [],
+            "constructions": []
+          }
+        }
+      ],
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 300
+          }
+        ],
+        "scrolls": [
+          {
+            "scrollId": "light_dark_scroll",
+            "quantity": 1
+          }
+        ],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    }
+  ]
+}

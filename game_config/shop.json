@@ -1,0 +1,1867 @@
+{
+    "version": "1.0",
+    "activeRotationTags": [],
+    "items": [
+        {
+            "itemId": "shop_pack_starter",
+            "displayName": "Starter Pack",
+            "description": "A one-time bundle to kick off your adventure.",
+            "iconId": "item_pack_starter",
+            "itemType": "Pack",
+            "placements": [
+                "Starter"
+            ],
+            "sortPriority": 300,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 100,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": true,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "GO",
+                        "amount": 100000
+                    },
+                    {
+                        "currencyId": "EN",
+                        "amount": 60
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "mystic_scroll",
+                        "quantity": 3
+                    }
+                ],
+                "runes": [
+                    {
+                        "setId": "",
+                        "slot": 0,
+                        "tier": 5,
+                        "quality": 0,
+                        "quantity": 2
+                    }
+                ]
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_pack_weekly",
+            "displayName": "Weekly Bundle",
+            "description": "Refreshes every week. Scrolls, a 6-star rune and Lunar Stones.",
+            "iconId": "item_pack_weekly",
+            "itemType": "Pack",
+            "placements": [
+                "Weekly"
+            ],
+            "sortPriority": 290,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 300,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Weekly",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "GO",
+                        "amount": 200000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "mystic_scroll",
+                        "quantity": 5
+                    }
+                ],
+                "runes": [
+                    {
+                        "setId": "",
+                        "slot": 0,
+                        "tier": 6,
+                        "quality": 0,
+                        "quantity": 1
+                    }
+                ]
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_pack_daily",
+            "displayName": "Daily Deal",
+            "description": "Half price, once a day.",
+            "iconId": "item_pack_daily",
+            "itemType": "Pack",
+            "placements": [
+                "HotDeals"
+            ],
+            "sortPriority": 280,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 60,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [
+                {
+                    "mode": "PercentOff",
+                    "percentOff": 50,
+                    "fixedOffAmount": 0,
+                    "startUtc": "",
+                    "endUtc": ""
+                }
+            ],
+            "limit": {
+                "scope": "Daily",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "EN",
+                        "amount": 60
+                    },
+                    {
+                        "currencyId": "GO",
+                        "amount": 30000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_gem_001",
+            "displayName": "Lunar Stones S",
+            "description": "",
+            "iconId": "shop_lunar_s",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 200,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 30,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "GO",
+                        "amount": 50000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_gem_002",
+            "displayName": "Lunar Stones M",
+            "description": "",
+            "iconId": "shop_lunar_m",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 199,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 100,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "GO",
+                        "amount": 170000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_gem_003",
+            "displayName": "Lunar Stones L",
+            "description": "",
+            "iconId": "shop_lunar_l",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 198,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 500,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": true,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "GO",
+                        "amount": 900000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [
+                    {
+                        "currencyId": "GO",
+                        "amount": 100000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_energy_001",
+            "displayName": "Energy S",
+            "description": "",
+            "iconId": "shop_energy_s",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 190,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 30,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Daily",
+                "maxPurchases": 3,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "EN",
+                        "amount": 50
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_energy_002",
+            "displayName": "Energy M",
+            "description": "",
+            "iconId": "shop_energy_m",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 189,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 60,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "EN",
+                        "amount": 120
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_energy_003",
+            "displayName": "Energy L",
+            "description": "",
+            "iconId": "shop_energy_l",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 188,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 90,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "EN",
+                        "amount": 190
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_diamond_001",
+            "displayName": "Diamonds 70",
+            "description": "",
+            "iconId": "shop_diamond_s",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 180,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "RealMoneyIAP",
+                    "currencyId": "",
+                    "amount": 0,
+                    "iapProductId": "diamond_pack_1",
+                    "realMoneyDisplay": "$0.99"
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "DM",
+                        "amount": 70
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_diamond_002",
+            "displayName": "Diamonds 380",
+            "description": "",
+            "iconId": "shop_diamond_m",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 179,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "RealMoneyIAP",
+                    "currencyId": "",
+                    "amount": 0,
+                    "iapProductId": "diamond_pack_2",
+                    "realMoneyDisplay": "$4.99"
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "DM",
+                        "amount": 380
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_diamond_003",
+            "displayName": "Diamonds 800",
+            "description": "",
+            "iconId": "shop_diamond_l",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 178,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "RealMoneyIAP",
+                    "currencyId": "",
+                    "amount": 0,
+                    "iapProductId": "diamond_pack_3",
+                    "realMoneyDisplay": "$9.99"
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "DM",
+                        "amount": 800
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_item_diamond_004",
+            "displayName": "Diamonds 1700",
+            "description": "",
+            "iconId": "shop_diamond_l",
+            "itemType": "Currency",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 177,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "RealMoneyIAP",
+                    "currencyId": "",
+                    "amount": 0,
+                    "iapProductId": "diamond_pack_4",
+                    "realMoneyDisplay": "$19.99"
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "DM",
+                        "amount": 1700
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_scroll_mystic_1",
+            "displayName": "Mystic Scroll",
+            "description": "Summons a 3 to 5-star monster.",
+            "iconId": "item_scroll_mystic",
+            "itemType": "SummonScroll",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 150,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 100,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "mystic_scroll",
+                        "quantity": 1
+                    }
+                ],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_scroll_mystic_11",
+            "displayName": "Mystic Scrolls 10+1",
+            "description": "Eleven Mystic Scrolls for the price of ten.",
+            "iconId": "item_scroll_bundle",
+            "itemType": "SummonScroll",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 149,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 1000,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "mystic_scroll",
+                        "quantity": 11
+                    }
+                ],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_scroll_common_5",
+            "displayName": "Summoning Scrolls x5",
+            "description": "Summons 1 to 3-star monsters.",
+            "iconId": "item_scroll_common",
+            "itemType": "SummonScroll",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 148,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GO",
+                    "amount": 50000,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Daily",
+                "maxPurchases": 2,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "common_scroll",
+                        "quantity": 5
+                    }
+                ],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_rune_pouch",
+            "displayName": "Rune Pouch",
+            "description": "One random 5-star rune.",
+            "iconId": "item_rune_pouch",
+            "itemType": "RunePack",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 120,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GO",
+                    "amount": 30000,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Daily",
+                "maxPurchases": 5,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": [
+                    {
+                        "setId": "",
+                        "slot": 0,
+                        "tier": 5,
+                        "quality": 0,
+                        "quantity": 1
+                    }
+                ]
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_rune_chest",
+            "displayName": "Rune Chest",
+            "description": "Three random 5-star runes.",
+            "iconId": "item_rune_chest",
+            "itemType": "RunePack",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 119,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 150,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": [
+                    {
+                        "setId": "",
+                        "slot": 0,
+                        "tier": 5,
+                        "quality": 0,
+                        "quantity": 3
+                    }
+                ]
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_rune_chest_legendary",
+            "displayName": "Legendary Rune Chest",
+            "description": "One legendary 6-star rune.",
+            "iconId": "item_rune_chest_legendary",
+            "itemType": "RunePack",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 118,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 5,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 500,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Weekly",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": [
+                    {
+                        "setId": "",
+                        "slot": 0,
+                        "tier": 6,
+                        "quality": 5,
+                        "quantity": 1
+                    }
+                ]
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_building_pine_tree",
+            "displayName": "Pine Tree",
+            "description": "A decoration for your island.",
+            "iconId": "building_pine_tree",
+            "itemType": "Construction",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 100,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GO",
+                    "amount": 5000,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [
+                    {
+                        "buildableId": "pine_tree",
+                        "count": 1,
+                        "forceUnique": false
+                    }
+                ],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_building_crystal_tower",
+            "displayName": "Crystal Tower",
+            "description": "A unique tower that shines over your island.",
+            "iconId": "building_crystal_tower",
+            "itemType": "Construction",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 99,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 300,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "None",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": true,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [
+                    {
+                        "buildableId": "tower_diamond",
+                        "count": 1,
+                        "forceUnique": true
+                    }
+                ],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_gift_daily",
+            "displayName": "Daily Gift",
+            "description": "A free gift every day. Come back tomorrow for another one!",
+            "iconId": "item_gift_free",
+            "itemType": "Pack",
+            "placements": [
+                "HotDeals"
+            ],
+            "sortPriority": 310,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GO",
+                    "amount": 0,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Daily",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "EN",
+                        "amount": 10
+                    },
+                    {
+                        "currencyId": "GO",
+                        "amount": 10000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_pack_summoner",
+            "displayName": "Summoner's Monthly Pack",
+            "description": "Eight Mystic Scrolls every month. Your best shot at a 5-star monster!",
+            "iconId": "item_pack_summoner",
+            "itemType": "Pack",
+            "placements": [
+                "Monthly"
+            ],
+            "sortPriority": 295,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 750,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Monthly",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "GO",
+                        "amount": 300000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "mystic_scroll",
+                        "quantity": 8
+                    },
+                    {
+                        "scrollId": "common_scroll",
+                        "quantity": 10
+                    }
+                ],
+                "runes": [
+                    {
+                        "setId": "",
+                        "slot": 0,
+                        "tier": 6,
+                        "quality": 0,
+                        "quantity": 1
+                    }
+                ]
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_glory_scroll_mystic",
+            "displayName": "Mystic Scroll",
+            "description": "Summons a 3 to 5-star monster.",
+            "iconId": "item_scroll_mystic",
+            "itemType": "SummonScroll",
+            "placements": [
+                "Exchange"
+            ],
+            "sortPriority": 90,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GP",
+                    "amount": 250,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Weekly",
+                "maxPurchases": 2,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "mystic_scroll",
+                        "quantity": 1
+                    }
+                ],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_glory_chest",
+            "displayName": "Glory Chest",
+            "description": "Two random 5-star runes for Arena champions.",
+            "iconId": "item_glory_chest",
+            "itemType": "RunePack",
+            "placements": [
+                "Exchange"
+            ],
+            "sortPriority": 89,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GP",
+                    "amount": 300,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Weekly",
+                "maxPurchases": 1,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": [
+                    {
+                        "setId": "",
+                        "slot": 0,
+                        "tier": 5,
+                        "quality": 0,
+                        "quantity": 2
+                    }
+                ]
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_glory_scroll_common",
+            "displayName": "Summoning Scrolls",
+            "description": "Summons 1 to 3-star monsters.",
+            "iconId": "item_scroll_common",
+            "itemType": "SummonScroll",
+            "placements": [
+                "Exchange"
+            ],
+            "sortPriority": 88,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GP",
+                    "amount": 30,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Weekly",
+                "maxPurchases": 10,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "common_scroll",
+                        "quantity": 3
+                    }
+                ],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_glory_essence",
+            "displayName": "Magic Essences",
+            "description": "Used to awaken monsters.",
+            "iconId": "essence_magic_mid",
+            "itemType": "Currency",
+            "placements": [
+                "Exchange"
+            ],
+            "sortPriority": 87,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GP",
+                    "amount": 50,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Weekly",
+                "maxPurchases": 5,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "magic_mid",
+                        "amount": 10
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_glory_lunar",
+            "displayName": "Lunar Stones",
+            "description": "",
+            "iconId": "shop_lunar_m",
+            "itemType": "Currency",
+            "placements": [
+                "Exchange"
+            ],
+            "sortPriority": 86,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GP",
+                    "amount": 60,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Weekly",
+                "maxPurchases": 5,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "GO",
+                        "amount": 50000
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_glory_energy",
+            "displayName": "Energy",
+            "description": "",
+            "iconId": "shop_energy_m",
+            "itemType": "Currency",
+            "placements": [
+                "Exchange"
+            ],
+            "sortPriority": 85,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GP",
+                    "amount": 40,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Daily",
+                "maxPurchases": 2,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [
+                    {
+                        "currencyId": "EN",
+                        "amount": 30
+                    }
+                ],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_glory_devilmon",
+            "displayName": "Devilkin",
+            "description": "Feed it to any monster to level up one of its skills.",
+            "iconId": "devilkin_dark_icon",
+            "itemType": "Character",
+            "placements": [
+                "Exchange"
+            ],
+            "sortPriority": 91,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "SoftCurrency",
+                    "currencyId": "GP",
+                    "amount": 200,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Weekly",
+                "maxPurchases": 2,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [
+                    {
+                        "characterId": "devilkin_dark",
+                        "star": 4,
+                        "level": 1,
+                        "awakeningIndex": 0,
+                        "duplicateGivesShards": false,
+                        "duplicateCompCurrencyId": "",
+                        "duplicateCompAmount": 0
+                    }
+                ],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        },
+        {
+            "itemId": "shop_scroll_light_dark",
+            "displayName": "Scroll of Light & Darkness",
+            "description": "Summons a Light or Dark monster (3 to 5 stars).",
+            "iconId": "item_scroll_light_dark",
+            "itemType": "SummonScroll",
+            "placements": [
+                "DefaultGrid"
+            ],
+            "sortPriority": 151,
+            "availability": {
+                "mode": "Always",
+                "startUtc": "",
+                "endUtc": "",
+                "rotationTag": ""
+            },
+            "minAccountLevel": 0,
+            "requiredProgressId": "",
+            "basePrices": [
+                {
+                    "kind": "HardCurrency",
+                    "currencyId": "DM",
+                    "amount": 300,
+                    "iapProductId": "",
+                    "realMoneyDisplay": ""
+                }
+            ],
+            "progressiveTiers": [],
+            "discounts": [],
+            "limit": {
+                "scope": "Monthly",
+                "maxPurchases": 5,
+                "giveFirstPurchaseBonus": false,
+                "uniquePerAccount": false,
+                "weekStartsOn": 1,
+                "resetHourUtc": 0
+            },
+            "rewards": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [
+                    {
+                        "scrollId": "light_dark_scroll",
+                        "quantity": 1
+                    }
+                ],
+                "runes": []
+            },
+            "firstPurchaseBonus": {
+                "currencies": [],
+                "characters": [],
+                "constructions": [],
+                "scrolls": [],
+                "runes": []
+            }
+        }
+    ],
+    "iap": {
+        "demoPurchases": true,
+        "allowTestPurchases": true,
+        "googlePackageName": "com.UnityTechnologies.com.unity.template.urpblank",
+        "appleBundleId": "com.Unity-Technologies.com.unity.template.urp-blank",
+        "appleAppId": 0
+    }
+}

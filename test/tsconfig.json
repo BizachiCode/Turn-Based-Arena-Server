@@ -1,0 +1,13 @@
+{
+  // Editor / type-check project for the tests (the root tsconfig only builds src/). Tests run with `npm test`
+  // (mocha + tsx), so nothing is emitted from here. Type-check: `npx tsc -p test`.
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "..",
+    "noEmit": true,
+    // Test fixtures use loose literals: implicit any is fine here (src keeps the strict rules).
+    "noImplicitAny": false,
+    "types": ["node", "mocha"]
+  },
+  "include": ["./**/*.ts", "../src/**/*.ts"]
+}

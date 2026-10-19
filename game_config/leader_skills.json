@@ -1,0 +1,6058 @@
+{
+    "leaderSkills": [
+        {
+            "id": "alien_fire_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23000000417232514,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "alien_water_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23000000417232514,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "alien_ground_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23000000417232514,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "alien_light_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23000000417232514,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "alien_dark_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23000000417232514,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "alpaking_fire_leader_aw",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.30000001192092898,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "alpaking_water_leader_aw",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.4000000059604645,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "alpaking_ground_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "alpaking_light_leader_aw",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.1899999976158142,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "alpaking_dark_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.25,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "arcanist_fire_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.25,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "arcanist_water_leader_aw",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.25,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "arcanist_ground_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.25,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "arcanist_light_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1899999976158142,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "arcanist_dark_leader_aw",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.1899999976158142,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "armabee_fire_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1899999976158142,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "armabee_water_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1899999976158142,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "armabee_ground_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "armabee_light_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "dungeon"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "armabee_dark_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1899999976158142,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "assassin_fire_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.25,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "assassin_water_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.25,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "assassin_ground_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.1899999976158142,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "assassin_light_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.30000001192092898,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "assassin_dark_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1899999976158142,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "barbarian_fire_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.30000001192092898,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "barbarian_water_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.30000001192092898,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "barbarian_ground_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.30000001192092898,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "barbarian_light_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.30000001192092898,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "barbarian_dark_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.30000001192092898,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "battle_bunny_fire_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1599999964237213,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "battle_bunny_water_leader_aw",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.25999999046325686,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "battle_bunny_ground_leader_aw",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.1599999964237213,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "battle_bunny_light_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.20999999344348908,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "battle_bunny_dark_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.20999999344348908,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "birb_water_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "birb_ground_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "birb_light_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "bone_pirate_fire_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.3799999952316284,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "bone_pirate_water_leader_aw",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.3799999952316284,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "bone_pirate_ground_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.3799999952316284,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "bone_pirate_light_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.3799999952316284,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "bone_pirate_dark_leader_aw",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.3799999952316284,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "cactoro_ground_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.30000001192092898,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "cactoro_light_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.30000001192092898,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "captain_fire_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.4099999964237213,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "captain_water_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.33000001311302187,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "captain_ground_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.33000001311302187,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "captain_light_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "captain_dark_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23999999463558198,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "chick_fire_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.15000000596046449,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "chick_water_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.15000000596046449,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "chick_ground_leader_aw",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.10000000149011612,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "chick_dark_leader_aw",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.15000000596046449,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "deckhand_fire_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.20999999344348908,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "deckhand_water_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.20999999344348908,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "deckhand_ground_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.25999999046325686,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "deckhand_light_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1599999964237213,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "deckhand_dark_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.1599999964237213,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "demon_fire_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.550000011920929,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "demon_water_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.550000011920929,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "demon_ground_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.4399999976158142,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "demon_light_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.4399999976158142,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "demon_dark_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4399999976158142,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "dragon_fire_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.33000001311302187,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "dragon_water_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.33000001311302187,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "dragon_ground_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "dragon_light_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23999999463558198,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "dragon_dark_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.4099999964237213,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "druid_fire_leader_aw",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.4000000059604645,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "druid_water_leader_aw",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.33000001311302187,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "druid_ground_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.33000001311302187,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "druid_light_leader_aw",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.4000000059604645,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "druid_dark_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "duelist_fire_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "duelist_water_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.4000000059604645,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "duelist_ground_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.33000001311302187,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "duelist_light_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23999999463558198,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "duelist_dark_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.33000001311302187,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "engineer_fire_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.20999999344348908,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "engineer_water_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.20999999344348908,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "engineer_ground_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.20999999344348908,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "engineer_light_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.20999999344348908,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "engineer_dark_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.25999999046325686,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "fish_fire_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23000000417232514,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "fish_water_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23000000417232514,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "fish_ground_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23000000417232514,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "fish_light_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23000000417232514,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "fish_dark_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23000000417232514,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "ghost_fire_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "ghost_water_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "ghost_ground_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "ghost_light_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "ghost_dark_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "glub_fire_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.20999999344348908,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "glub_dark_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.20999999344348908,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "goleling_fire_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.4000000059604645,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "goleling_water_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.4000000059604645,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "goleling_ground_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.4000000059604645,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "goleling_light_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.4000000059604645,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "goleling_dark_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.4000000059604645,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "hywirl_fire_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4399999976158142,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "dungeon"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "hywirl_water_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.4399999976158142,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "dungeon"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "hywirl_ground_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.33000001311302187,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "dungeon"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "hywirl_light_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.4399999976158142,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "dungeon"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "hywirl_dark_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.550000011920929,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "dungeon"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "jungle_ape_fire_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.33000001311302187,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "jungle_ape_water_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.33000001311302187,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "jungle_ape_ground_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.33000001311302187,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "jungle_ape_light_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "jungle_ape_dark_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.4000000059604645,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "kitty_fire_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.20999999344348908,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "kitty_water_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.1599999964237213,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "kitty_ground_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1599999964237213,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "kitty_light_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.20999999344348908,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "kitty_dark_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.20999999344348908,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "knight_fire_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.25,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "knight_water_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.25,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "knight_ground_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.1899999976158142,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "knight_light_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.30000001192092898,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "knight_dark_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1899999976158142,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "lich_fire_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.3799999952316284,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "lich_water_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.3799999952316284,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "lich_ground_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.3799999952316284,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "lich_light_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.3799999952316284,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "lich_dark_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.3799999952316284,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "little_wizard_fire_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.33000001311302187,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "little_wizard_water_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.33000001311302187,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "little_wizard_ground_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "little_wizard_light_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "little_wizard_dark_leader_aw",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.4000000059604645,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "mushnub_water_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.20000000298023225,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "mushnub_light_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.20000000298023225,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "mushroom_king_fire_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.33000001311302187,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "mushroom_king_water_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.33000001311302187,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "mushroom_king_ground_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.550000011920929,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "mushroom_king_light_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4399999976158142,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "mushroom_king_dark_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.550000011920929,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "ninja_fire_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.30000001192092898,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "ninja_water_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.30000001192092898,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "ninja_ground_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.30000001192092898,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "ninja_light_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.30000001192092898,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "ninja_dark_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.30000001192092898,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "orc_fire_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.30000001192092898,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "orc_water_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.30000001192092898,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "orc_ground_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.30000001192092898,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "orc_light_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.30000001192092898,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "orc_dark_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.30000001192092898,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "orc_warlord_fire_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4399999976158142,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "orc_warlord_water_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.4399999976158142,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "orc_warlord_ground_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.33000001311302187,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "orc_warlord_light_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.4399999976158142,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "orc_warlord_dark_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.33000001311302187,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "pigeon_light_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.17000000178813935,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "dungeon"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "pup_water_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23000000417232514,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "pup_ground_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23000000417232514,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "raider_fire_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.20999999344348908,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "raider_water_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.20999999344348908,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "dungeon"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "raider_ground_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.20999999344348908,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "raider_light_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.18000000715255738,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "raider_dark_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.18000000715255738,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "raptor_fire_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4000000059604645,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "fire_element"
+            ]
+        },
+        {
+            "id": "raptor_water_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4000000059604645,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "raptor_ground_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4000000059604645,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "ground_element"
+            ]
+        },
+        {
+            "id": "raptor_light_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4000000059604645,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "raptor_dark_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.4000000059604645,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "dark_element"
+            ]
+        },
+        {
+            "id": "rogue_fire_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.1599999964237213,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "rogue_water_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.30000001192092898,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "water_element"
+            ]
+        },
+        {
+            "id": "rogue_ground_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.25999999046325686,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "rogue_light_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23000000417232514,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": [
+                "light_element"
+            ]
+        },
+        {
+            "id": "rogue_dark_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.1599999964237213,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "shark_pirate_fire_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.33000001311302187,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "shark_pirate_water_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "shark_pirate_ground_leader",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23999999463558198,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "shark_pirate_light_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.4000000059604645,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "shark_pirate_dark_leader",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.33000001311302187,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "squidle_fire_leader",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "squidle_water_leader",
+            "displayName": "text_leader_name_resistance",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.30000001192092898,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "squidle_ground_leader",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.30000001192092898,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "squidle_light_leader",
+            "displayName": "text_leader_name_defense",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.25,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [],
+            "elementFilter": []
+        },
+        {
+            "id": "squidle_dark_leader",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.33000001311302187,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "tribal_fire_leader_aw",
+            "displayName": "text_leader_name_maxhp",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.33000001311302187,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "tribal_water_leader_aw",
+            "displayName": "text_leader_name_accuracy",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.4000000059604645,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "tribal_ground_leader_aw",
+            "displayName": "text_leader_name_speed",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.23999999463558198,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "tribal_light_leader_aw",
+            "displayName": "text_leader_name_critrate",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.23999999463558198,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        },
+        {
+            "id": "tribal_dark_leader_aw",
+            "displayName": "text_leader_name_attack",
+            "scope": "AllAllies",
+            "percentBonuses": {
+                "hp": 0.0,
+                "atk": 0.33000001311302187,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "flatBonuses": {
+                "hp": 0.0,
+                "atk": 0.0,
+                "def": 0.0,
+                "spd": 0.0,
+                "sh": 0.0,
+                "cr": 0.0,
+                "cd": 0.0,
+                "res": 0.0,
+                "acc": 0.0,
+                "eva": 0.0
+            },
+            "modeFilter": [
+                "arena"
+            ],
+            "elementFilter": []
+        }
+    ]
+}

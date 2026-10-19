@@ -1,0 +1,56 @@
+{
+    "maxLevel": 15,
+    "upgradeBreakpoints": [
+        3,
+        6,
+        9,
+        12
+    ],
+    "initialSubstatsByQuality": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "onlyCraftedAcceptGemsAndGrinds": true,
+    "gemEligibleSubstats": [],
+    "upgradeSuccessPercentByLevel": [
+        100,
+        100,
+        100,
+        100,
+        90,
+        85,
+        80,
+        70,
+        60,
+        50,
+        45,
+        40,
+        30,
+        20,
+        15,
+        10
+    ],
+    "upgradeCostByLevel": [
+        0,
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900,
+        1000,
+        1100,
+        1200,
+        1300,
+        1400,
+        1500
+    ],
+    "costCurrencyId": "GO",
+    "runesCanBreakOnUpgrade": false
+}

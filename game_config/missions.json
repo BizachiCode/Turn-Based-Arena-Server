@@ -1,0 +1,364 @@
+{
+  "enabled": true,
+  "resetHourUtc": 0,
+  "daily": [
+    {
+      "id": "daily_login",
+      "kind": "login",
+      "target": 1,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "GO",
+            "amount": 2000
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "daily_stages",
+      "kind": "stage_clear",
+      "target": 3,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "GO",
+            "amount": 5000
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "daily_dungeon",
+      "kind": "dungeon_clear",
+      "target": 3,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "EN",
+            "amount": 15
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "daily_energy",
+      "kind": "energy_spent",
+      "target": 30,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "GO",
+            "amount": 5000
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "daily_arena",
+      "kind": "arena_battle",
+      "target": 3,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "GP",
+            "amount": 30
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "daily_powerup",
+      "kind": "monster_powerup",
+      "target": 1,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "GO",
+            "amount": 3000
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "daily_summon",
+      "kind": "summon",
+      "target": 1,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 5
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    }
+  ],
+  "dailyBonus": {
+    "currencies": [
+      {
+        "currencyId": "DM",
+        "amount": 30
+      },
+      {
+        "currencyId": "common_scroll_cur",
+        "amount": 1
+      }
+    ],
+    "scrolls": [],
+    "characters": [],
+    "runes": [],
+    "constructions": []
+  },
+  "achievements": [
+    {
+      "id": "ach_level_5",
+      "kind": "account_level",
+      "target": 5,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_level_10",
+      "kind": "account_level",
+      "target": 10,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 100
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_level_20",
+      "kind": "account_level",
+      "target": 20,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 200
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_stages_10",
+      "kind": "stage_clear",
+      "target": 10,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 30
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_stages_100",
+      "kind": "stage_clear",
+      "target": 100,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 100
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_dungeon_10",
+      "kind": "dungeon_clear",
+      "target": 10,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_dungeon_50",
+      "kind": "dungeon_clear",
+      "target": 50,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 100
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_arena_10",
+      "kind": "arena_battle",
+      "target": 10,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_summon_10",
+      "kind": "summon",
+      "target": 10,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_powerup_20",
+      "kind": "monster_powerup",
+      "target": 20,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_evolve_1",
+      "kind": "monster_evolve",
+      "target": 1,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 30
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_awaken_1",
+      "kind": "monster_awaken",
+      "target": 1,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "ach_rune_10",
+      "kind": "rune_upgrade",
+      "target": 10,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 30
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    }
+  ]
+}

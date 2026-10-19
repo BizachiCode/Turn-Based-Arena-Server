@@ -1,0 +1,83 @@
+{
+  "version": "1.0",
+  "timing": {
+    "defaultTurnThreshold": 1000,
+    "turnBarHeadroomMultiplier": 1.2000000476837158
+  },
+  "turnOrder": {
+    "mode": "AttackBar",
+    "teamPhaseSkipThreshold": 0.5
+  },
+  "accuracy": {
+    "baseHitChance": 1.0,
+    "accuracyVsEvasionWeight": 1.0,
+    "minimumHitChance": 0.0,
+    "maximumHitChance": 1.0,
+    "accuracyVsResistanceWeight": 1.0,
+    "minimumDebuffChance": 0.0,
+    "maximumDebuffChance": 1.0,
+    "debuffResistanceModel": "resist_floor",
+    "minimumResistChance": 0.15000000596046448,
+    "maximumResistChance": 1.0
+  },
+  "damage": {
+    "minimumDamage": 1,
+    "defaultDefenseConstant": 100.0,
+    "useCriticalDamageStat": false,
+    "allowCriticalOnGlancing": false,
+    "glancingChanceOnElementDisadvantage": 0.5,
+    "glancingDamageMultiplier": 0.699999988079071,
+    "elementalAdvantageDamageMultiplier": 1.0,
+    "elementalDisadvantageDamageMultiplier": 1.0,
+    "elementalNeutralDamageMultiplier": 1.0,
+    "criticalRateBonusOnElementAdvantage": 0.15000000596046448,
+    "criticalRatePenaltyOnElementDisadvantage": 0.15000000596046448,
+    "crushingChanceOnElementAdvantage": 1.0,
+    "crushingDamageMultiplier": 1.2999999523162842
+  },
+  "healing": {
+    "minimumHeal": 1
+  },
+  "revive": {
+    "cleanseDebuffsOnRevive": true,
+    "shieldPercentOnRevive": 0.0,
+    "turnBarPercentOnRevive": 0.0
+  },
+  "elements": {
+    "ids": [
+      "dark_element",
+      "fire_element",
+      "ground_element",
+      "light_element",
+      "water_element"
+    ],
+    "matrix": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      -1,
+      0,
+      0
+    ]
+  },
+  "statusDefaults": {}
+}

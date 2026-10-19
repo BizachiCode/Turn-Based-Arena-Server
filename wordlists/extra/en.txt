@@ -1,0 +1,7 @@
+# Common chat insults and abbreviations missing from the LDNOOBW en list.
+stfu
+gtfo
+kys
+retard
+retarded
+dumbass

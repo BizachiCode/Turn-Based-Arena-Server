@@ -1,0 +1,721 @@
+{
+  "allowUnknownDialogues": true,
+  "dialogues": [
+    {
+      "id": "tutorial_dialogue_01",
+      "prerequisites": [
+        "tutorial_nickname"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [
+          {
+            "scrollId": "mystic_scroll",
+            "quantity": 2
+          }
+        ],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "tutorial_summon",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "tutorial_mail",
+      "prerequisites": [
+        "tutorial_summon"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "GO",
+            "amount": 3000
+          }
+        ],
+        "scrolls": [],
+        "characters": [
+          {
+            "characterId": "chick_fire",
+            "star": 1,
+            "level": 1,
+            "awakeningIndex": 0,
+            "duplicateGivesShards": false,
+            "duplicateCompCurrencyId": null,
+            "duplicateCompAmount": 0
+          },
+          {
+            "characterId": "chick_water",
+            "star": 1,
+            "level": 1,
+            "awakeningIndex": 0,
+            "duplicateGivesShards": false,
+            "duplicateCompCurrencyId": null,
+            "duplicateCompAmount": 0
+          },
+          {
+            "characterId": "pigeon_ground",
+            "star": 2,
+            "level": 1,
+            "awakeningIndex": 0,
+            "duplicateGivesShards": false,
+            "duplicateCompCurrencyId": null,
+            "duplicateCompAmount": 0
+          }
+        ],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_guild_quests",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "GO",
+            "amount": 3000
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r1_intro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r1_mid",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_1_stage_5",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 20
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r1_boss",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r1_outro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_1_stage_10",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r2_intro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r2_mid",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_2_stage_5",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 20
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r2_boss",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r2_outro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_2_stage_10",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r3_intro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r3_mid",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_3_stage_5",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 20
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r3_boss",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r3_outro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_3_stage_10",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r4_intro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r4_mid",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_4_stage_5",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 20
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r4_boss",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r4_outro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_4_stage_10",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r5_intro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r5_mid",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_5_stage_5",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 20
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r5_boss",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r5_outro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_5_stage_10",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r6_intro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r6_mid",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_6_stage_5",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 20
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r6_boss",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_r6_outro",
+      "prerequisites": [
+        "tutorial_dialogue_01"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": "region_6_stage_10",
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 100
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "story_epilogue",
+      "prerequisites": [
+        "story_r6_outro"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [
+          {
+            "scrollId": "mystic_scroll",
+            "quantity": 1
+          }
+        ],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "tutorial_first_battle",
+      "prerequisites": [
+        "tutorial_powerup"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "tutorial_first_stage",
+      "prerequisites": [
+        "tutorial_first_battle"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "tutorial_battle_basics",
+      "prerequisites": [
+        "tutorial_first_stage"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "tutorial_powerup",
+      "prerequisites": [
+        "tutorial_mail"
+      ],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "GO",
+            "amount": 5000
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "tutorial_runes",
+      "prerequisites": [
+        "tutorial_powerup"
+      ],
+      "minAccountLevel": 5,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [
+          {
+            "currencyId": "DM",
+            "amount": 50
+          }
+        ],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    },
+    {
+      "id": "tutorial_nickname",
+      "prerequisites": [],
+      "minAccountLevel": 1,
+      "requiredStageClear": null,
+      "repeatable": false,
+      "rewardWhenSkipped": true,
+      "rewards": {
+        "currencies": [],
+        "scrolls": [],
+        "characters": [],
+        "runes": [],
+        "constructions": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+# LDNOOBW ja entries that are NOT filtered in the game chat (CJK words match anywhere in a line,
+# so ordinary words and common substrings must stay out). Reviewed 2026-10-16; review freely.
+3p  # 2-char abbreviation, appears in usernames and game terms
+g スポット  # anatomical/educational term
+s ＆ m  # abbreviation
+sm  # 2-char Latin abbreviation, appears in innocent words and usernames
+xx  # 2-char Latin abbreviation, common in usernames
+アジアのかわいい女の子  # innocent phrase mentioning ethnicity
+いたずら  # ordinary word (prank)
+エクスタシー  # ordinary loanword (ecstasy)
+エスコート  # ordinary word / game term (escort)
+おしっこ  # mild everyday word
+おしり  # body part in normal use
+オシリ  # body part in normal use
+おしりのあな  # mild body part wording
+お尻  # body part in normal use
+おもらし  # mild everyday word
+カーマスートラ  # educational/cultural term
+カント  # philosopher Kant; substring of カントリー etc.
+グロ  # 2-char substring of グローブ, グロース, etc.
+サディズム  # psychological/educational term
+しばり  # common gaming term (challenge restriction) and ordinary word
+スカートの中  # ordinary phrase (inside the skirt)
+スリット  # ordinary word (slit), fashion/design term
+セクシーな  # ordinary adjective
+セクシーな 10 代  # ordinary phrase
+ディック  # common given name (Dick)
+デブ  # 2-char substring of デブリ, デバッグ-like words
+なめ  # everyday verb stem, extremely common substring
+ヌード  # substring of ヌードル (noodle)
+ハードコア  # game mode term (hardcore)
+パンティー  # ordinary clothing word
+ファンタジー  # game genre term
+フィスト  # game term (fist)
+フェティッシュ  # ordinary/educational loanword
+ぶっかけ  # food term (ぶっかけうどん)
+フック  # ordinary word (hook), game term
+プレイボーイ  # magazine/brand name, ordinary word
+ベアバック  # ordinary word (bareback riding)
+ボーイズラブ  # genre/identity-related term used neutrally
+ぽっちゃり  # ordinary descriptive word
+ホモ  # 2-char substring of ホモサピエンス etc.
+やおい  # genre term used neutrally
+ラティーナ  # ethnicity term used neutrally
+ラバー  # ordinary word (rubber)
+ランジェリー  # ordinary clothing word
+レズビアン  # sexual orientation identity term used neutrally
+ローター  # ordinary word (rotor)
+ロリータ  # fashion style / literary title
+嫌い  # ordinary word (dislike)
+合意の性交  # legal/educational phrase
+拷問  # common game/story term (torture)
+殺し方  # common game wording (how to kill)
+殺人事件  # ordinary word (murder case), fiction/news term
+支配  # ordinary word (control/rule), game term
+自己愛性  # medical/psychological term
+女の子  # ordinary word (girl)
+女王様  # ordinary word (queen), game term
+女子高生  # ordinary word (schoolgirl)
+女装  # identity/everyday term
+人妻  # ordinary word (married woman)
+人種  # ordinary word (race/ethnicity)
+性交  # 2-char substring of innocent words (e.g. 特性交換)
+生殖器  # medical/educational term
+挿入  # ordinary word (insert)
+足を広げる  # ordinary phrase (spread legs)
+大陰唇  # medical term
+脱衣  # ordinary word (undressing), game/equipment term
+直腸  # medical term
+剃毛  # medical/grooming term
+奴隷  # common game/story term (slave)
+二穴  # 2-char entry, risk of innocent matches
+乳首  # body part in normal use (also baby bottle nipple)
+覗き  # ordinary verb (peek)
+縛り  # common gaming term (challenge restriction) and ordinary verb
+噴出  # ordinary word (gushing)
+糞  # 1-char entry
+糞便  # medical term
+平手打ち  # ordinary word (slap), game term
+夢精  # medical/educational term
+毛深い  # ordinary descriptive word
+誘惑  # ordinary word (temptation), common skill/game term
+裸  # 1-char, ordinary word
+裸の女性  # ordinary phrase
+両性  # 2-char, ordinary/biological term
+両性具有  # biological/educational term
+両刀  # 2-char, ordinary word (double-edged, dual-wield)
+卍  # 1-char symbol, used in many contexts
+宦官  # historical term
+肛門  # medical term
+膣  # 1-char medical term

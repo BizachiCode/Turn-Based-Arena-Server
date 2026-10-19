@@ -1,0 +1,42 @@
+[{
+    "slot": 1,
+    "allowedMainStats": [
+        "ATKFlat"
+    ]
+},{
+    "slot": 2,
+    "allowedMainStats": [
+        "HPPercent",
+        "ATKPercent",
+        "DEFPercent",
+        "SPD"
+    ]
+},{
+    "slot": 3,
+    "allowedMainStats": [
+        "DEFFlat"
+    ]
+},{
+    "slot": 4,
+    "allowedMainStats": [
+        "HPPercent",
+        "ATKPercent",
+        "DEFPercent",
+        "CritRatePercent",
+        "CritDamagePercent"
+    ]
+},{
+    "slot": 5,
+    "allowedMainStats": [
+        "HPFlat"
+    ]
+},{
+    "slot": 6,
+    "allowedMainStats": [
+        "HPPercent",
+        "ATKPercent",
+        "DEFPercent",
+        "ResistancePercent",
+        "AccuracyPercent"
+    ]
+}]

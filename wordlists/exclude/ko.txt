@@ -1,0 +1,20 @@
+# LDNOOBW ko entries that are NOT filtered in the game chat (CJK words match anywhere in a line,
+# so ordinary words and common substrings must stay out). Reviewed 2026-10-16; review freely.
+거유  # 2 chars, body-part term; mostly harmless
+고자  # 2 chars; appears inside everyday words like 고자질
+노모  # ordinary word for an elderly mother
+망가  # means manga and is inside the common verb 망가지다 (to break)
+미친  # very common colloquial word ('crazy'), used neutrally
+변태  # also the biology term for metamorphosis; 2 chars
+보지  # also the common verb form 'won't see' (보지 않다)
+씹  # 1 char; also the everyday verb 씹다 (to chew)
+암캐  # female dog; animal term
+애자  # 2 chars; appears inside innocent words and names
+야사  # ordinary word for unofficial history
+에로  # 2 chars; appears inside loanwords and names
+유모  # ordinary word for a nanny or wet nurse
+육갑  # traditional sexagenary cycle term; 2 chars
+자위  # also means self-defense (자위대, 자위권)
+자지  # also the common verb form 'doesn't sleep' (자지 않다)
+하드코어  # common gaming term (hardcore mode)
+호로  # 2 chars; appears inside innocent words and onomatopoeia

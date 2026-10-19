@@ -1,0 +1,29 @@
+{
+  "inboxLimit": 100,
+  "defaultExpirationDays": 30,
+  "welcome": {
+    "enabled": true,
+    "sender": "Arena Council",
+    "titleKey": "text_mail_welcome_title",
+    "title": "Welcome, Summoner!",
+    "bodyKey": "text_mail_welcome_body",
+    "body": "Welcome to the arena! Here are a few gifts to start your journey. Good luck!",
+    "expirationDays": 30,
+    "attachments": {
+      "currencies": [
+        {
+          "currencyId": "DM",
+          "amount": 100
+        },
+        {
+          "currencyId": "GO",
+          "amount": 20000
+        }
+      ],
+      "scrolls": [],
+      "characters": [],
+      "runes": [],
+      "constructions": []
+    }
+  }
+}

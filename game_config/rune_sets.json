@@ -1,0 +1,137 @@
+[{
+    "id": "Fatal",
+    "displayName": "Savage",
+    "requiredCount": 4,
+    "scope": "SelfOnly",
+    "percentBonuses": {
+        "MaxHP": 0.0,
+        "Attack": 0.3499999940395355,
+        "Defense": 0.0,
+        "Speed": 0.0,
+        "CritRate": 0.0,
+        "CritDamage": 0.0,
+        "Resistance": 0.0,
+        "Accuracy": 0.0,
+        "Evasion": 0.0
+    },
+    "specialEffects": []
+},{
+    "id": "Blade",
+    "displayName": "Edge",
+    "requiredCount": 2,
+    "scope": "SelfOnly",
+    "percentBonuses": {
+        "MaxHP": 0.0,
+        "Attack": 0.0,
+        "Defense": 0.0,
+        "Speed": 0.0,
+        "CritRate": 0.11999999731779099,
+        "CritDamage": 0.0,
+        "Resistance": 0.0,
+        "Accuracy": 0.0,
+        "Evasion": 0.0
+    },
+    "specialEffects": []
+},{
+    "id": "Rage",
+    "displayName": "Wrath",
+    "requiredCount": 4,
+    "scope": "SelfOnly",
+    "percentBonuses": {
+        "MaxHP": 0.0,
+        "Attack": 0.0,
+        "Defense": 0.0,
+        "Speed": 0.0,
+        "CritRate": 0.0,
+        "CritDamage": 0.4000000059604645,
+        "Resistance": 0.0,
+        "Accuracy": 0.0,
+        "Evasion": 0.0
+    },
+    "specialEffects": []
+},{
+    "id": "Guard",
+    "displayName": "Fortress",
+    "requiredCount": 2,
+    "scope": "SelfOnly",
+    "percentBonuses": {
+        "MaxHP": 0.0,
+        "Attack": 0.0,
+        "Defense": 0.15000000596046449,
+        "Speed": 0.0,
+        "CritRate": 0.0,
+        "CritDamage": 0.0,
+        "Resistance": 0.0,
+        "Accuracy": 0.0,
+        "Evasion": 0.0
+    },
+    "specialEffects": []
+},{
+    "id": "Energy",
+    "displayName": "Vitality",
+    "requiredCount": 2,
+    "scope": "SelfOnly",
+    "percentBonuses": {
+        "MaxHP": 0.15000000596046449,
+        "Attack": 0.0,
+        "Defense": 0.0,
+        "Speed": 0.0,
+        "CritRate": 0.0,
+        "CritDamage": 0.0,
+        "Resistance": 0.0,
+        "Accuracy": 0.0,
+        "Evasion": 0.0
+    },
+    "specialEffects": []
+},{
+    "id": "Focus",
+    "displayName": "Focus",
+    "requiredCount": 2,
+    "scope": "SelfOnly",
+    "percentBonuses": {
+        "MaxHP": 0.0,
+        "Attack": 0.0,
+        "Defense": 0.0,
+        "Speed": 0.0,
+        "CritRate": 0.0,
+        "CritDamage": 0.0,
+        "Resistance": 0.0,
+        "Accuracy": 0.20000000298023225,
+        "Evasion": 0.0
+    },
+    "specialEffects": []
+},{
+    "id": "Endure",
+    "displayName": "Endure",
+    "requiredCount": 2,
+    "scope": "SelfOnly",
+    "percentBonuses": {
+        "MaxHP": 0.0,
+        "Attack": 0.0,
+        "Defense": 0.0,
+        "Speed": 0.0,
+        "CritRate": 0.0,
+        "CritDamage": 0.0,
+        "Resistance": 0.20000000298023225,
+        "Accuracy": 0.0,
+        "Evasion": 0.0
+    },
+    "specialEffects": []
+},{
+    "id": "Swift",
+    "displayName": "Tempest",
+    "requiredCount": 4,
+    "scope": "SelfOnly",
+    "percentBonuses": {
+        "MaxHP": 0.0,
+        "Attack": 0.0,
+        "Defense": 0.0,
+        "Speed": 0.25,
+        "CritRate": 0.0,
+        "CritDamage": 0.0,
+        "Resistance": 0.0,
+        "Accuracy": 0.0,
+        "Evasion": 0.0
+    },
+    "specialEffects": []
+}]

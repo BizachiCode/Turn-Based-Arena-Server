@@ -1,0 +1,746 @@
+[{
+    "stat": "HPPercent",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3
+    ],
+    "min": 1,
+    "max": 3
+},{
+    "stat": "HPPercent",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "min": 1,
+    "max": 4
+},{
+    "stat": "HPPercent",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "min": 2,
+    "max": 5
+},{
+    "stat": "HPPercent",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "min": 3,
+    "max": 6
+},{
+    "stat": "HPPercent",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        4,
+        5,
+        6,
+        7
+    ],
+    "min": 4,
+    "max": 7
+},{
+    "stat": "HPPercent",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        5,
+        6,
+        7,
+        8
+    ],
+    "min": 5,
+    "max": 8
+},{
+    "stat": "ATKPercent",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3
+    ],
+    "min": 1,
+    "max": 3
+},{
+    "stat": "ATKPercent",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "min": 1,
+    "max": 4
+},{
+    "stat": "ATKPercent",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "min": 2,
+    "max": 5
+},{
+    "stat": "ATKPercent",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "min": 3,
+    "max": 6
+},{
+    "stat": "ATKPercent",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        4,
+        5,
+        6,
+        7
+    ],
+    "min": 4,
+    "max": 7
+},{
+    "stat": "ATKPercent",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        5,
+        6,
+        7,
+        8
+    ],
+    "min": 5,
+    "max": 8
+},{
+    "stat": "DEFPercent",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3
+    ],
+    "min": 1,
+    "max": 3
+},{
+    "stat": "DEFPercent",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "min": 1,
+    "max": 4
+},{
+    "stat": "DEFPercent",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "min": 2,
+    "max": 5
+},{
+    "stat": "DEFPercent",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "min": 3,
+    "max": 6
+},{
+    "stat": "DEFPercent",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        4,
+        5,
+        6,
+        7
+    ],
+    "min": 4,
+    "max": 7
+},{
+    "stat": "DEFPercent",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        5,
+        6,
+        7,
+        8
+    ],
+    "min": 5,
+    "max": 8
+},{
+    "stat": "HPFlat",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        20,
+        30,
+        40,
+        50
+    ],
+    "min": 20,
+    "max": 50
+},{
+    "stat": "HPFlat",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        40,
+        50,
+        60,
+        70
+    ],
+    "min": 40,
+    "max": 70
+},{
+    "stat": "HPFlat",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        60,
+        80,
+        100,
+        120
+    ],
+    "min": 60,
+    "max": 120
+},{
+    "stat": "HPFlat",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        100,
+        120,
+        140,
+        160
+    ],
+    "min": 100,
+    "max": 160
+},{
+    "stat": "HPFlat",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        140,
+        160,
+        180,
+        200
+    ],
+    "min": 140,
+    "max": 200
+},{
+    "stat": "HPFlat",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        180,
+        200,
+        220,
+        240
+    ],
+    "min": 180,
+    "max": 240
+},{
+    "stat": "ATKFlat",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "min": 1,
+    "max": 4
+},{
+    "stat": "ATKFlat",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "min": 2,
+    "max": 5
+},{
+    "stat": "ATKFlat",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "min": 3,
+    "max": 6
+},{
+    "stat": "ATKFlat",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        5,
+        6,
+        7,
+        8
+    ],
+    "min": 5,
+    "max": 8
+},{
+    "stat": "ATKFlat",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        6,
+        7,
+        8,
+        9
+    ],
+    "min": 6,
+    "max": 9
+},{
+    "stat": "ATKFlat",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        8,
+        9,
+        10,
+        11
+    ],
+    "min": 8,
+    "max": 11
+},{
+    "stat": "DEFFlat",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "min": 1,
+    "max": 4
+},{
+    "stat": "DEFFlat",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "min": 2,
+    "max": 5
+},{
+    "stat": "DEFFlat",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "min": 3,
+    "max": 6
+},{
+    "stat": "DEFFlat",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        5,
+        6,
+        7,
+        8
+    ],
+    "min": 5,
+    "max": 8
+},{
+    "stat": "DEFFlat",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        6,
+        7,
+        8,
+        9
+    ],
+    "min": 6,
+    "max": 9
+},{
+    "stat": "DEFFlat",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        8,
+        9,
+        10,
+        11
+    ],
+    "min": 8,
+    "max": 11
+},{
+    "stat": "SPD",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1
+    ],
+    "min": 1,
+    "max": 1
+},{
+    "stat": "SPD",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2
+    ],
+    "min": 1,
+    "max": 2
+},{
+    "stat": "SPD",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3
+    ],
+    "min": 2,
+    "max": 3
+},{
+    "stat": "SPD",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4
+    ],
+    "min": 2,
+    "max": 4
+},{
+    "stat": "SPD",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5
+    ],
+    "min": 3,
+    "max": 5
+},{
+    "stat": "SPD",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        4,
+        5,
+        6
+    ],
+    "min": 4,
+    "max": 6
+},{
+    "stat": "CritRatePercent",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1
+    ],
+    "min": 1,
+    "max": 1
+},{
+    "stat": "CritRatePercent",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2
+    ],
+    "min": 1,
+    "max": 2
+},{
+    "stat": "CritRatePercent",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3
+    ],
+    "min": 1,
+    "max": 3
+},{
+    "stat": "CritRatePercent",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4
+    ],
+    "min": 2,
+    "max": 4
+},{
+    "stat": "CritRatePercent",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5
+    ],
+    "min": 3,
+    "max": 5
+},{
+    "stat": "CritRatePercent",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        4,
+        5,
+        6
+    ],
+    "min": 4,
+    "max": 6
+},{
+    "stat": "CritDamagePercent",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2
+    ],
+    "min": 1,
+    "max": 2
+},{
+    "stat": "CritDamagePercent",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3
+    ],
+    "min": 1,
+    "max": 3
+},{
+    "stat": "CritDamagePercent",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4
+    ],
+    "min": 2,
+    "max": 4
+},{
+    "stat": "CritDamagePercent",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5
+    ],
+    "min": 3,
+    "max": 5
+},{
+    "stat": "CritDamagePercent",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        4,
+        5,
+        6
+    ],
+    "min": 4,
+    "max": 6
+},{
+    "stat": "CritDamagePercent",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        5,
+        6,
+        7
+    ],
+    "min": 5,
+    "max": 7
+},{
+    "stat": "ResistancePercent",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1
+    ],
+    "min": 1,
+    "max": 1
+},{
+    "stat": "ResistancePercent",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2
+    ],
+    "min": 1,
+    "max": 2
+},{
+    "stat": "ResistancePercent",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3
+    ],
+    "min": 1,
+    "max": 3
+},{
+    "stat": "ResistancePercent",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4
+    ],
+    "min": 2,
+    "max": 4
+},{
+    "stat": "ResistancePercent",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5
+    ],
+    "min": 3,
+    "max": 5
+},{
+    "stat": "ResistancePercent",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        4,
+        5,
+        6
+    ],
+    "min": 4,
+    "max": 6
+},{
+    "stat": "AccuracyPercent",
+    "tier": 1,
+    "variant": "Normal",
+    "discreteOptions": [
+        1
+    ],
+    "min": 1,
+    "max": 1
+},{
+    "stat": "AccuracyPercent",
+    "tier": 2,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2
+    ],
+    "min": 1,
+    "max": 2
+},{
+    "stat": "AccuracyPercent",
+    "tier": 3,
+    "variant": "Normal",
+    "discreteOptions": [
+        1,
+        2,
+        3
+    ],
+    "min": 1,
+    "max": 3
+},{
+    "stat": "AccuracyPercent",
+    "tier": 4,
+    "variant": "Normal",
+    "discreteOptions": [
+        2,
+        3,
+        4
+    ],
+    "min": 2,
+    "max": 4
+},{
+    "stat": "AccuracyPercent",
+    "tier": 5,
+    "variant": "Normal",
+    "discreteOptions": [
+        3,
+        4,
+        5
+    ],
+    "min": 3,
+    "max": 5
+},{
+    "stat": "AccuracyPercent",
+    "tier": 6,
+    "variant": "Normal",
+    "discreteOptions": [
+        4,
+        5,
+        6
+    ],
+    "min": 4,
+    "max": 6
+}]

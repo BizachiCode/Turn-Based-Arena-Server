@@ -1,0 +1,956 @@
+{
+  "version": "1.0.0",
+  "exportedAtIsoUtc": "2026-10-18T20:51:36.9303935Z",
+  "auth": {
+    "minPassword": 5,
+    "maxPassword": 25,
+    "requireUppercase": false,
+    "requireSpecial": false
+  },
+  "gameplay": {
+    "starTiers": [
+      {
+        "stars": 1,
+        "maxLevel": 20,
+        "expPerLevel": [
+          54,
+          66,
+          82,
+          104,
+          131,
+          163,
+          199,
+          240,
+          284,
+          333,
+          386,
+          443,
+          504,
+          569,
+          638,
+          710,
+          786,
+          866,
+          950
+        ]
+      },
+      {
+        "stars": 2,
+        "maxLevel": 25,
+        "expPerLevel": [
+          54,
+          66,
+          82,
+          104,
+          131,
+          163,
+          199,
+          240,
+          284,
+          333,
+          386,
+          443,
+          504,
+          569,
+          638,
+          710,
+          786,
+          866,
+          950,
+          1037,
+          1127,
+          1221,
+          1319,
+          1420
+        ]
+      },
+      {
+        "stars": 3,
+        "maxLevel": 30,
+        "expPerLevel": [
+          54,
+          66,
+          82,
+          104,
+          131,
+          163,
+          199,
+          240,
+          284,
+          333,
+          386,
+          443,
+          504,
+          569,
+          638,
+          710,
+          786,
+          866,
+          950,
+          1037,
+          1127,
+          1221,
+          1319,
+          1420,
+          1524,
+          1632,
+          1743,
+          1858,
+          1976
+        ]
+      },
+      {
+        "stars": 4,
+        "maxLevel": 35,
+        "expPerLevel": [
+          54,
+          66,
+          82,
+          104,
+          131,
+          163,
+          199,
+          240,
+          284,
+          333,
+          386,
+          443,
+          504,
+          569,
+          638,
+          710,
+          786,
+          866,
+          950,
+          1037,
+          1127,
+          1221,
+          1319,
+          1420,
+          1524,
+          1632,
+          1743,
+          1858,
+          1976,
+          2097,
+          2221,
+          2349,
+          2480,
+          2614
+        ]
+      },
+      {
+        "stars": 5,
+        "maxLevel": 40,
+        "expPerLevel": [
+          54,
+          66,
+          82,
+          104,
+          131,
+          163,
+          199,
+          240,
+          284,
+          333,
+          386,
+          443,
+          504,
+          569,
+          638,
+          710,
+          786,
+          866,
+          950,
+          1037,
+          1127,
+          1221,
+          1319,
+          1420,
+          1524,
+          1632,
+          1743,
+          1858,
+          1976,
+          2097,
+          2221,
+          2349,
+          2480,
+          2614,
+          2751,
+          2892,
+          3035,
+          3182,
+          3332
+        ]
+      },
+      {
+        "stars": 6,
+        "maxLevel": 50,
+        "expPerLevel": [
+          54,
+          66,
+          82,
+          104,
+          131,
+          163,
+          199,
+          240,
+          284,
+          333,
+          386,
+          443,
+          504,
+          569,
+          638,
+          710,
+          786,
+          866,
+          950,
+          1037,
+          1127,
+          1221,
+          1319,
+          1420,
+          1524,
+          1632,
+          1743,
+          1858,
+          1976,
+          2097,
+          2221,
+          2349,
+          2480,
+          2614,
+          2751,
+          2892,
+          3035,
+          3182,
+          3332,
+          3485,
+          3641,
+          3801,
+          3963,
+          4128,
+          4297,
+          4468,
+          4642,
+          4820,
+          5000
+        ]
+      }
+    ],
+    "accountExp": {
+      "maxLevel": 50,
+      "expPerLevel": [
+        102,
+        110,
+        122,
+        139,
+        160,
+        187,
+        218,
+        255,
+        296,
+        342,
+        392,
+        448,
+        508,
+        573,
+        644,
+        718,
+        798,
+        883,
+        972,
+        1066,
+        1165,
+        1269,
+        1378,
+        1491,
+        1610,
+        1733,
+        1861,
+        1994,
+        2132,
+        2274,
+        2421,
+        2574,
+        2731,
+        2893,
+        3059,
+        3231,
+        3407,
+        3588,
+        3774,
+        3965,
+        4161,
+        4361,
+        4567,
+        4777,
+        4992,
+        5212,
+        5436,
+        5666,
+        5900
+      ],
+      "expPerEnergy": 10,
+      "levelUpRewards": [
+        {
+          "level": 2,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 11,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 12,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 13,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 16,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 17,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 18,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 19,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 22,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 23,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 24,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 26,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 27,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 28,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 29,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 31,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 32,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 33,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 34,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 35,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 36,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 37,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 38,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 39,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 41,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 42,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 43,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 44,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 45,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        },
+        {
+          "level": 46,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 47,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 48,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 49,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "level": 50,
+          "currencies": [
+            {
+              "currencyId": "DM",
+              "amount": 50
+            },
+            {
+              "currencyId": "GO",
+              "amount": 10000
+            }
+          ]
+        }
+      ],
+      "refillOnLevelUp": [
+        "EN"
+      ]
+    },
+    "monsterSell": {
+      "currencyId": "GO",
+      "priceByStars": [
+        0,
+        300,
+        800,
+        2000,
+        6000,
+        20000,
+        60000
+      ],
+      "pricePerLevel": 50
+    },
+    "capacityExpansion": {
+      "bag": {
+        "step": 5,
+        "currencyId": "GO",
+        "costBase": 20000,
+        "costIncrement": 10000
+      },
+      "storage": {
+        "step": 25,
+        "currencyId": "GO",
+        "costBase": 30000,
+        "costIncrement": 10000
+      }
+    },
+    "playerCapacity": {
+      "initialBagCapacity": 50,
+      "maxBagCapacity": 200,
+      "initialStorageCapacity": 50,
+      "maxStorageCapacity": 300
+    },
+    "powerUp": {
+      "currencyId": "GO",
+      "costPerFodderStarUnit": 600,
+      "expMultiplierByStars": [
+        {
+          "stars": 1,
+          "factor": 0.699999988079071,
+          "baseExp": 300
+        },
+        {
+          "stars": 2,
+          "factor": 0.8500000238418579,
+          "baseExp": 600
+        },
+        {
+          "stars": 3,
+          "factor": 1,
+          "baseExp": 1200
+        },
+        {
+          "stars": 4,
+          "factor": 1.149999976158142,
+          "baseExp": 2400
+        },
+        {
+          "stars": 5,
+          "factor": 1.350000023841858,
+          "baseExp": 4800
+        },
+        {
+          "stars": 6,
+          "factor": 2,
+          "baseExp": 9600
+        }
+      ],
+      "minFodderBaseLevel": 2,
+      "expYieldMode": "AccumulatedToLevel"
+    },
+    "evolve": {
+      "currencyId": "GO",
+      "costPerStarUnit": 600,
+      "steps": [
+        {
+          "fromStars": 1,
+          "toStars": 2,
+          "requiredStarPoints": 1
+        },
+        {
+          "fromStars": 2,
+          "toStars": 3,
+          "requiredStarPoints": 4
+        },
+        {
+          "fromStars": 3,
+          "toStars": 4,
+          "requiredStarPoints": 16
+        },
+        {
+          "fromStars": 4,
+          "toStars": 5,
+          "requiredStarPoints": 96
+        },
+        {
+          "fromStars": 5,
+          "toStars": 6,
+          "requiredStarPoints": 600
+        }
+      ]
+    }
+  },
+  "profile": {
+    "nickname": {
+      "minLength": 3,
+      "maxLength": 25,
+      "canUseSpecialChar": true
+    }
+  },
+  "chat": {
+    "message": {
+      "minLength": 1,
+      "maxLength": 80
+    },
+    "directory": {
+      "initialPool": 3,
+      "maxPool": 50,
+      "recommendedPerChannel": 50
+    },
+    "clientAntiSpam": {
+      "windowSeconds": 60,
+      "maxMessagesInWindow": 6
+    },
+    "serverRate": {
+      "tokensPer10s": 8,
+      "burst": 12,
+      "userWindowSeconds": 60,
+      "userMaxMessagesInWindow": 25,
+      "duplicateMuteBaseSeconds": 10
+    },
+    "filter": {
+      "enabled": true,
+      "mode": "mask",
+      "maskChar": "*",
+      "wholeWordOnly": true,
+      "words": [],
+      "allowList": [],
+      "bundledLists": [
+        "en",
+        "pt",
+        "ja",
+        "ko",
+        "zh"
+      ]
+    }
+  },
+  "reports": {
+    "enabled": true,
+    "dailyLimit": 10,
+    "cooldownSeconds": 30,
+    "categories": [
+      "spam",
+      "offensive",
+      "cheating",
+      "name",
+      "other"
+    ],
+    "historyLines": 5,
+    "notifyReporter": true
+  },
+  "tutorial": {
+    "guaranteedSummons": [
+      {
+        "scrollId": "mystic_scroll",
+        "characterIds": [
+          "dragon_fire",
+          "birb_water"
+        ]
+      }
+    ]
+  }
+}

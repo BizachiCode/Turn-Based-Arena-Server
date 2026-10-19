@@ -1,0 +1,121 @@
+{
+  "enabled": true,
+  "defaultTopSize": 50,
+  "defaultRefreshSeconds": 120,
+  "categories": [
+    {
+      "id": "level",
+      "kind": "level",
+      "enabled": true,
+      "order": 0,
+      "titleKey": "ranking_level_title",
+      "descriptionKey": "ranking_level_desc",
+      "valueKey": "ranking_value_level",
+      "iconId": "level",
+      "topSize": 0,
+      "refreshSeconds": 0,
+      "regionId": "",
+      "difficultyWeights": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "arena",
+      "kind": "arena",
+      "enabled": true,
+      "order": 1,
+      "titleKey": "ranking_arena_title",
+      "descriptionKey": "ranking_arena_desc",
+      "valueKey": "ranking_value_rating",
+      "iconId": "arena",
+      "topSize": 0,
+      "refreshSeconds": 0,
+      "regionId": "",
+      "difficultyWeights": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "tower",
+      "kind": "tower",
+      "enabled": true,
+      "order": 2,
+      "titleKey": "ranking_tower_title",
+      "descriptionKey": "ranking_tower_desc",
+      "valueKey": "ranking_value_floors",
+      "iconId": "tower",
+      "topSize": 0,
+      "refreshSeconds": 0,
+      "regionId": "",
+      "difficultyWeights": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "story",
+      "kind": "story",
+      "enabled": true,
+      "order": 3,
+      "titleKey": "ranking_story_title",
+      "descriptionKey": "ranking_story_desc",
+      "valueKey": "ranking_value_points",
+      "iconId": "story",
+      "topSize": 0,
+      "refreshSeconds": 0,
+      "regionId": "",
+      "difficultyWeights": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "collection",
+      "kind": "collection",
+      "enabled": true,
+      "order": 4,
+      "titleKey": "ranking_collection_title",
+      "descriptionKey": "ranking_collection_desc",
+      "valueKey": "ranking_value_monsters",
+      "iconId": "collection",
+      "topSize": 0,
+      "refreshSeconds": 0,
+      "regionId": "",
+      "difficultyWeights": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "guild",
+      "kind": "guild",
+      "enabled": true,
+      "order": 5,
+      "titleKey": "ranking_guild_title",
+      "descriptionKey": "ranking_guild_desc",
+      "valueKey": "ranking_value_points",
+      "iconId": "guild",
+      "topSize": 0,
+      "refreshSeconds": 0,
+      "regionId": "",
+      "difficultyWeights": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+}

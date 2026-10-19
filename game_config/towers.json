@@ -1,0 +1,11 @@
+{
+  "towers": [
+    {
+      "regionId": "tower_ascension",
+      "reset": "monthly",
+      "resetHourUtc": 0,
+      "weekStartsOn": 1,
+      "minAccountLevel": 5
+    }
+  ]
+}

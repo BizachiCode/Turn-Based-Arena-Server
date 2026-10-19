@@ -1,0 +1,1484 @@
+{
+    "version": "1.0",
+    "generatedAtUnix": 1792356697,
+    "scrolls": [
+        {
+            "id": "mystic_scroll",
+            "name": "Mystic Scroll",
+            "pools": [
+                {
+                    "id": "mystic_nat3",
+                    "weight": 915,
+                    "minStars": 3,
+                    "maxStars": 3,
+                    "entries": [
+                        {
+                            "characterId": "alien_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "alien_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "alien_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "barbarian_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "barbarian_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "barbarian_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "battle_bunny_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "battle_bunny_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "battle_bunny_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "birb_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "birb_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "birb_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "bone_pirate_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "bone_pirate_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "bone_pirate_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "cactoro_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "cactoro_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "cactoro_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "deckhand_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "deckhand_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "deckhand_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "engineer_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "engineer_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "engineer_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "fish_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "fish_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "fish_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "frogman_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "frogman_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "frogman_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ghost_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ghost_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ghost_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "glub_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "glub_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "glub_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "headless_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "headless_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "headless_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "kitty_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "kitty_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "kitty_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pup_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pup_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pup_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raider_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raider_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raider_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "rogue_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "rogue_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "rogue_water",
+                            "weight": 10,
+                            "rateUp": false
+                        }
+                    ]
+                },
+                {
+                    "id": "mystic_nat4",
+                    "weight": 80,
+                    "minStars": 4,
+                    "maxStars": 4,
+                    "entries": [
+                        {
+                            "characterId": "alpaking_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "alpaking_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "alpaking_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "arcanist_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "arcanist_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "arcanist_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "armabee_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "armabee_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "armabee_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "assassin_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "assassin_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "assassin_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "druid_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "druid_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "druid_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "duelist_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "duelist_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "duelist_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "goleling_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "goleling_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "goleling_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "jungle_ape_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "jungle_ape_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "jungle_ape_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "knight_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "knight_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "knight_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "little_wizard_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "little_wizard_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "little_wizard_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ninja_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ninja_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ninja_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raptor_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raptor_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raptor_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "shark_pirate_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "shark_pirate_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "shark_pirate_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "squidle_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "squidle_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "squidle_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "tribal_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "tribal_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "tribal_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "yeti_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "yeti_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "yeti_water",
+                            "weight": 10,
+                            "rateUp": false
+                        }
+                    ]
+                },
+                {
+                    "id": "mystic_nat5",
+                    "weight": 5,
+                    "minStars": 5,
+                    "maxStars": 5,
+                    "entries": [
+                        {
+                            "characterId": "captain_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "captain_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "captain_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "demon_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "demon_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "demon_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "dragon_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "dragon_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "dragon_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "hywirl_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "hywirl_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "hywirl_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "lich_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "lich_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "lich_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "mushroom_king_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "mushroom_king_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "mushroom_king_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_warlord_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_warlord_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_warlord_water",
+                            "weight": 10,
+                            "rateUp": false
+                        }
+                    ]
+                }
+            ],
+            "currencyId": "mystic_scroll_cur",
+            "costPerSummon": 1,
+            "tenPlusOneCost": 10,
+            "multiGive": 11,
+            "availableFromUnix": 0,
+            "availableUntilUnix": 0
+        },
+        {
+            "id": "common_scroll",
+            "name": "Summoning Scroll",
+            "pools": [
+                {
+                    "id": "common_nat1",
+                    "weight": 300,
+                    "minStars": 1,
+                    "maxStars": 1,
+                    "entries": [
+                        {
+                            "characterId": "chick_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "chick_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "chick_water",
+                            "weight": 10,
+                            "rateUp": false
+                        }
+                    ]
+                },
+                {
+                    "id": "common_nat2",
+                    "weight": 450,
+                    "minStars": 2,
+                    "maxStars": 2,
+                    "entries": [
+                        {
+                            "characterId": "greenblob_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "greenblob_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "greenblob_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "jelly_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "jelly_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "jelly_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "mushnub_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "mushnub_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "mushnub_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pigeon_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pigeon_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pigeon_water",
+                            "weight": 10,
+                            "rateUp": false
+                        }
+                    ]
+                },
+                {
+                    "id": "common_nat3",
+                    "weight": 250,
+                    "minStars": 3,
+                    "maxStars": 3,
+                    "entries": [
+                        {
+                            "characterId": "alien_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "alien_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "alien_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "barbarian_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "barbarian_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "barbarian_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "battle_bunny_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "battle_bunny_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "battle_bunny_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "birb_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "birb_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "birb_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "bone_pirate_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "bone_pirate_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "bone_pirate_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "cactoro_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "cactoro_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "cactoro_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "deckhand_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "deckhand_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "deckhand_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "engineer_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "engineer_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "engineer_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "fish_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "fish_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "fish_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "frogman_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "frogman_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "frogman_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ghost_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ghost_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ghost_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "glub_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "glub_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "glub_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "headless_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "headless_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "headless_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "kitty_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "kitty_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "kitty_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pup_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pup_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pup_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raider_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raider_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raider_water",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "rogue_fire",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "rogue_ground",
+                            "weight": 10,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "rogue_water",
+                            "weight": 10,
+                            "rateUp": false
+                        }
+                    ]
+                }
+            ],
+            "currencyId": "common_scroll_cur",
+            "costPerSummon": 1,
+            "tenPlusOneCost": 10,
+            "multiGive": 11,
+            "availableFromUnix": 0,
+            "availableUntilUnix": 0
+        },
+        {
+            "id": "light_dark_scroll",
+            "name": "Scroll of Light & Darkness",
+            "pools": [
+                {
+                    "id": "ld_nat3",
+                    "weight": 935,
+                    "minStars": 3,
+                    "maxStars": 3,
+                    "entries": [
+                        {
+                            "characterId": "alien_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "alien_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "barbarian_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "barbarian_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "battle_bunny_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "battle_bunny_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "birb_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "birb_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "bone_pirate_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "bone_pirate_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "cactoro_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "cactoro_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "deckhand_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "deckhand_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "engineer_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "engineer_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "fish_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "fish_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "frogman_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "frogman_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ghost_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ghost_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "glub_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "glub_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "headless_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "headless_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "kitty_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "kitty_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pup_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "pup_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raider_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raider_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "rogue_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "rogue_light",
+                            "weight": 1,
+                            "rateUp": false
+                        }
+                    ]
+                },
+                {
+                    "id": "ld_nat4",
+                    "weight": 60,
+                    "minStars": 4,
+                    "maxStars": 4,
+                    "entries": [
+                        {
+                            "characterId": "alpaking_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "alpaking_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "arcanist_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "arcanist_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "armabee_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "armabee_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "assassin_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "assassin_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "druid_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "druid_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "duelist_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "duelist_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "goleling_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "goleling_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "jungle_ape_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "jungle_ape_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "knight_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "knight_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "little_wizard_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "little_wizard_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ninja_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "ninja_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raptor_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "raptor_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "shark_pirate_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "shark_pirate_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "squidle_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "squidle_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "tribal_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "tribal_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "yeti_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "yeti_light",
+                            "weight": 1,
+                            "rateUp": false
+                        }
+                    ]
+                },
+                {
+                    "id": "ld_nat5",
+                    "weight": 5,
+                    "minStars": 5,
+                    "maxStars": 5,
+                    "entries": [
+                        {
+                            "characterId": "captain_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "captain_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "demon_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "demon_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "dragon_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "dragon_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "hywirl_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "hywirl_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "lich_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "lich_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "mushroom_king_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "mushroom_king_light",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_warlord_dark",
+                            "weight": 1,
+                            "rateUp": false
+                        },
+                        {
+                            "characterId": "orc_warlord_light",
+                            "weight": 1,
+                            "rateUp": false
+                        }
+                    ]
+                }
+            ],
+            "currencyId": "light_dark_scroll_cur",
+            "costPerSummon": 1,
+            "tenPlusOneCost": 10,
+            "multiGive": 11,
+            "availableFromUnix": 0,
+            "availableUntilUnix": 0
+        }
+    ]
+}

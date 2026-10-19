@@ -1,0 +1,91 @@
+# LDNOOBW zh entries that are NOT filtered in the game chat (CJK words match anywhere in a line,
+# so ordinary words and common substrings must stay out). Reviewed 2026-10-16; review freely.
+13.  # number with a period, appears in ordinary text
+13点  # also a plain time expression (13:00)
+十三点  # also a plain time expression
+九游  # game platform name
+乳  # single character, milk/dairy
+乳头  # body part / medical term
+乳房  # body part / medical term
+交配  # biological term
+他奶奶  # neutral 'his grandmother'
+他妈  # neutral 'his mother'
+他娘  # neutral 'his mother'
+你妈  # neutral 'your mother' in normal sentences
+你娘  # neutral 'your mother' in normal sentences
+你全家  # neutral 'your whole family'
+你老闆  # 'your boss'
+老味  # common word fragment (e.g. old flavor)
+老母  # ordinary word (mother, hen)
+几八  # appears in normal text, e.g. 星期几八点
+机八  # appears in normal text, e.g. 手机八成新
+刚度  # physics/engineering term
+包皮  # medical term and food wrapper
+卵  # single character, egg
+卵子  # biology term
+口肯  # appears in normal text, e.g. 一口肯定
+后庭  # back courtyard / anatomy term
+吹箫  # playing the xiao flute
+处女  # neutral word, also Virgo (处女座)
+外阴  # medical term
+奶  # single character, milk/grandma
+奸  # single character in ordinary words (奸商, 奸细)
+姦  # single character, traditional form
+幹  # single character, common in traditional text (幹部, 樹幹)
+妈妈的  # common neutral phrase ('mom's')
+妓  # single character
+娘的  # substring of 新娘的, 姑娘的
+密洞  # cave/dungeon term
+射你  # normal in game combat chat ('shoot you')
+小肉粒  # also a food term
+屁股  # ordinary body part
+干你  # 2 chars, appears in phrases like 不干你事
+日你  # 2 chars, substring of 生日你..., 今日你...
+性  # single character
+性无能  # medical term
+成人  # ordinary word (adult)
+扒光  # ordinary verb
+打炮  # firing a cannon, game term
+打飞机  # shooting planes, game term
+撒尿  # everyday verb
+月经  # medical/educational term
+淫  # single character
+激情  # ordinary word (passion)
+爛  # single character, traditional form
+玉杵  # item / jade pestle
+祖宗  # ordinary word (ancestor)
+私服  # game term (private server)
+笨蛋  # mild everyday word
+精子  # biology term
+老二  # ordinary word (second child)
+肉壁  # anatomy / ordinary term
+肥西  # place name
+花柳  # classical phrase (flowers and willows)
+賤  # single character, traditional form
+贝肉  # shellfish meat
+迷药  # game item
+逼  # single character in ordinary words (逼迫, 强逼)
+野鸡  # pheasant
+阳萎  # medical term
+阴唇  # anatomy term
+阴核  # anatomy term
+阴毛  # anatomy term
+阴茎  # anatomy term
+阴道  # anatomy term
+阴部  # anatomy term
+陰莖  # anatomy term, traditional form
+龟头  # anatomy term, also 'turtle head'
+靠北  # ordinary directional phrase, e.g. 靠北边
+靠母  # ordinary phrase ('rely on mom')
+靠爸  # ordinary phrase ('rely on dad')
+靠背  # backrest
+靠腰  # ordinary phrase
+鬼公  # ghost, game term
+鸡鸡  # childish word / reduplicated chicken
+小鸡鸡  # childish word / little chicken
+鳩  # single character, dove
+柒  # single character, numeral seven
+撚  # single character, ordinary verb (twist)
+笨實  # ordinary word (honest/dull)
+粉腸  # food
+硬膠  # hard plastic
